@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="100.01"
+   inkscape:export-xdpi="100.01"
+   inkscape:export-filename="C:\Users\juras\OneDrive - University Of Cambridge\Projects\AmorphousDatabase\TableDataExtractor\docs\_static\logo.png"
+   width="1208.7965"
+   height="216.8401"
+   viewBox="0 0 1208.7965 216.8401"
+   version="1.1"
+   id="svg93"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+  <metadata
+     id="metadata99">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Artboard</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs97" />
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3840"
+     inkscape:window-height="2066"
+     id="namedview95"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.1614143"
+     inkscape:cx="444.08827"
+     inkscape:cy="29.879249"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg93" />
+  <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">Artboard</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <text
+     style="font-size:96px;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1"
+     fill="#ffffff"
+     letter-spacing="2.02588"
+     font-weight="normal"
+     font-size="120px"
+     font-family="HelveticaNeue, 'Helvetica Neue'"
+     id="ChemDataExtractor"
+     x="-54.364738"
+     y="-22.07399"
+     inkscape:export-xdpi="100.01"
+     inkscape:export-ydpi="100.01"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:'Futura Hv BT';-inkscape-font-specification:'Futura Hv BT';fill:#000000"
+       id="tspan89"
+       y="137.80296"
+       x="161.86192">TableDataExtractor</tspan></text>
+</svg>
