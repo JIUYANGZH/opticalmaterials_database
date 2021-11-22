@@ -69,6 +69,13 @@ For example, extract the example papers within ```D:\opticalmaterials_database\d
 
     python main.py 
     
+The Anaconda Prompt should then print the following:
+
+    (chemdataextractor) D:\opticalmaterials_database>python main.py
+    
+
+./demo/text1.html is done
+    
 After the raw data is extracted, it needs to be cleaned and converted into a standard format. We provide the data cleaning code in dataclean.ipynb. The final data format can be .json, .csv or .db.
 
 
