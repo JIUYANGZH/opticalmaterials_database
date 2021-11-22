@@ -52,7 +52,7 @@ class RefractiveIndexDataBase():
             #a.save_file_name = 'test'
             #RefractiveIndex.parsers.append(a)
             #print(RefractiveIndex.parsers)
-            d.models = [DielectricConstant]
+            d.models = [RefractiveIndex]
             print ('parsing ' + file)
             #print(type(d.records))
             rough = d.records.serialize()
@@ -77,6 +77,6 @@ class RefractiveIndexDataBase():
         #     pass
 
 
-test = RefractiveIndexDataBase(paper_root=r'F:\papers\rerun\dielectric_constant/',save_root=r'F:\papers\refractive_index\rsc_refractive_index\demo/',filename='test_dc')
+test = RefractiveIndexDataBase(paper_root=r'F:\papers\refractive_index\rsc_refractive_index\demo/',save_root=r'F:\papers\refractive_index\rsc_refractive_index\demo/',filename='test_rn')
 for paper in os.listdir(test.paper_root)[0:6]:
     test.extraction(test.paper_root+paper)

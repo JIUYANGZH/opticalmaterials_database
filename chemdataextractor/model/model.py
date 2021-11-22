@@ -168,7 +168,7 @@ class RefractiveIndex(DimensionlessModel):
     compound = ModelType(Compound, required=True, contextual=False)
     wavelength = ModelType(RefractiveIndexWavelength,required=False)
     raw_sentence = StringType(required=False, contextual=False)
-    parsers = [PropertyParserTemplate(),MultiQuantityModelTemplateParser()]#,AutoSentenceParser(),AutoTableParser()]
+    parsers = [AutoTableParser()] #[PropertyParserTemplate(),MultiQuantityModelTemplateParser(),AutoSentenceParser(),
 
 class ExcitedState(DimensionlessModel):
     state = StringType()

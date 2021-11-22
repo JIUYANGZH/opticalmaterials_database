@@ -30,7 +30,7 @@ from ..utils import memoized_property, python_2_unicode_compatible, first
 from .element import BaseElement
 from ..parse.definitions import specifier_definition
 from ..parse.cem import chemical_name
-from ..model.model import Compound, NmrSpectrum, IrSpectrum, UvvisSpectrum, MeltingPoint, GlassTransition, RefractiveIndex
+from ..model.model import Compound, NmrSpectrum, IrSpectrum, UvvisSpectrum, MeltingPoint, GlassTransition, RefractiveIndex,DielectricConstant
 from lxml import etree
 
 
@@ -769,7 +769,7 @@ class Sentence(BaseText):
             i += 1
 
         for i in records:
-            if isinstance(i,RefractiveIndex):
+            if isinstance(i,RefractiveIndex) or isinstance(i,DielectricConstant):
                 i.raw_sentence = ' '.join(tokens)
                 #print((i))
         #records.append((' '.join(tokens)))
