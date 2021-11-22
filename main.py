@@ -46,8 +46,8 @@ class RefractiveIndexDataBase():
         #try:
             f = open(file,'rb')
             d = Document.from_file(f)
-            a = Snowball.load(r'./relex/refractive_index.pkl')
-            a.save_dir = r'./relex'
+            a = Snowball.load(r'./chemdataextractor/relex/refractive_index.pkl')
+            a.save_dir = r'./chemdataextractor/relex'
             #a.relations_save_path = self.save_root + 'test.json'
             a.save_file_name = 'test'
             RefractiveIndex.parsers.append(a)
