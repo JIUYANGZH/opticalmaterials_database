@@ -168,7 +168,7 @@ class RefractiveIndex(DimensionlessModel):
     compound = ModelType(Compound, required=True, contextual=False)
     wavelength = ModelType(RefractiveIndexWavelength,required=False)
     raw_sentence = StringType(required=False, contextual=False)
-    parsers = [AutoTableParser()] #[PropertyParserTemplate(),MultiQuantityModelTemplateParser(),AutoSentenceParser(),
+    parsers = [AutoTableParser(),PropertyParserTemplate(),MultiQuantityModelTemplateParser(),AutoSentenceParser()]
 
 class ExcitedState(DimensionlessModel):
     state = StringType()
@@ -201,7 +201,7 @@ class DielectricConstant(DimensionlessModel):
     frequency = ModelType(DielectricConstantFrequency,required=False)
     dielectricloss = ModelType(DielectricLost,required=False)
     raw_sentence = StringType(required=False, contextual=False)
-    parsers = [PropertyParserTemplate(),MultiQuantityModelTemplateParser(),AutoTableParser()]#,AutoSentenceParser()]
+    parsers = [PropertyParserTemplate(),MultiQuantityModelTemplateParser(),AutoTableParser(),AutoSentenceParser()]
 
 # class MeltingPoint(BaseModel):
 #     """A melting point measurement."""
