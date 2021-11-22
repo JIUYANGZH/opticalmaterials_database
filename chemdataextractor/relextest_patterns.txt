@@ -1,0 +1,2222 @@
+the (specifier) of the (compound, names) is between (raw_value) RIU with confidence score 1.0
+
+final (specifier) of (raw_value) and good hydrophobicity , with a water contact angle of 122 ° , were obtained using the (compound, names) coating with confidence score 1.0
+
+the (specifier) of the (compound, names) film to (raw_value) , with confidence score 0.9941791666666666
+
+the (compound, names) layer possesses a smaller (specifier) ( (raw_value) ) than (compound, names) ( (raw_value) ) with confidence score 0.995
+
+a (compound, names) film was prepared with a low (specifier) of (raw_value) in with confidence score 1.0
+
+, (compound, names) particles can be assembled to form a network structure , successfully decreasing the (specifier) from (raw_value) . with confidence score 1.0
+
+The (compound, names) mixed sol was prepared from the mixture of the MgF2 sol and acid - catalyzed SiO2 sol with a Si / Mg molar ratio of 0.28 to obtain the target (specifier) of (raw_value) . with confidence score 1.0
+
+Fused (compound, names) ( with Φ = 35 mm , d = 3 mm and refractive index (specifier) = (raw_value) ) with confidence score 1.0
+
+an (compound, names) substrate is especially favor- able in this regard since this combination exhibits a difference in the (specifier) of (raw_value) . with confidence score 0.9974999999999999
+
+the (specifier) of the (compound, names) coating decreased at first and then increased to (raw_value) with with confidence score 1.0
+
+The (compound, names) substrate ( (specifier) = (raw_value) ) with confidence score 0.9904582708333333
+
+the (compound, names) sol with a MTES / TEOS molar ratio of 1.0 has the optimum network structure , corresponding to the lowest (specifier) of (raw_value) . with confidence score 1.0
+
+a (compound, names) unit with the highest sulfur content exhibited the highest (specifier) of (raw_value) and with confidence score 0.9974999999999999
+
+doped (compound, names) with an (specifier) of (raw_value) and with confidence score 0.9974999999999999
+
+a (compound, names) hybrid coating with a tunable (specifier) varying from (raw_value) by with confidence score 1.0
+
+a (compound, names) coating ( (specifier) = (raw_value) ) as the top layer and a (compound, names) coating ( (specifier) = (raw_value) ) with confidence score 1.0
+
+the (compound, names) coating finally formed a honeycomb - like structure , which led to an ultralow (specifier) of (raw_value) and with confidence score 1.0
+
+The (compound, names) films exhibit the (specifier) of (raw_value) at with confidence score 0.9865059794791666
+
+the (specifier) variations of the surrounding medium , we measured the interference spectra in 0 % , 1 % , 2 % , 3 % , and 4 % (compound, names) solutions , whose refractive indexes are (raw_value) , with confidence score 1.0
+
+<Blank> (compound, names) coatings with (specifier) as low as (raw_value) were with confidence score 1.0
+
+<Blank> (compound, names) and (compound, names) , with (specifier) of (raw_value) and (raw_value) , with confidence score 1.0
+
+Nano-porous (compound, names) , with a (specifier) of (raw_value) , with confidence score 1.0
+
+nano-porous (compound, names) coatings have a very low (specifier) of (raw_value) . with confidence score 1.0
+
+Nano-porous (compound, names) coatings with (specifier) in the range (raw_value) can with confidence score 1.0
+
+lowest (specifier) of a dense material ( (compound, names) ) is approximately (raw_value) ; with confidence score 1.0
+
+and (raw_value) , respectively ( the latter being the (specifier) of the (compound, names) synthesized with confidence score 1.0
+
+Several (compound, names) microspheres with known (specifier) ( n = (raw_value) ) with confidence score 0.9904582708333333
+
+( (compound, names) ) particles of a (specifier) of n = (raw_value) , with confidence score 1.0
+
+( (specifier) ) are all higher than (raw_value) and increase with an increase in the sulfur content of the (compound, names) . with confidence score 1.0
+
+the (compound, names) bridged PI-h exhibited a relatively lower (specifier) value ( (raw_value) ) with confidence score 0.0
+
+, (compound, names) exhibited a (specifier) of (raw_value) and with confidence score 1.0
+
+, (compound, names) containing iodinated aromatic side groups showed (specifier) values higher than (raw_value) . with confidence score 1.0
+
+containing (compound, names) ( Fig. 3b ) , which showed (specifier) as high as (raw_value) in with confidence score 1.0
+
+include (compound, names) ( anatase , (specifier) = (raw_value) ; rutile , n = 2.70 ) , (compound, names) ( (specifier) = (raw_value) ) , amorphous (compound, names) ( (specifier) = (raw_value) ) , (compound, names) ( (specifier) = (raw_value) ) , and (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+a (compound, names) nanocomposite with a (specifier) higher than (raw_value) . with confidence score 0.0
+
+( (compound, names) , (specifier) = (raw_value) ) and the organic encapsulants ( (compound, names) or silicone , (specifier) = (raw_value) ) with confidence score 0.5
+
+the (compound, names) films had (specifier) n between (raw_value) at with confidence score 0.0037250625
+
+δ-form (compound, names) ( sPS , (specifier) = (raw_value) ) with confidence score 1.0
+
+This (compound, names) has a low thermal conductivity of 0.2 W / ( mK ) , a 92 % transmission of visible light ( 3 mm thickness ) and real (specifier) of (raw_value) ( with confidence score 1.0
+
+while (specifier) = (raw_value) would correspond to a nearly index matched (compound, names) oil with confidence score 1.0
+
+of (specifier) and Δn having potential for optical applications are (raw_value) and 0.0010 for PITE (compound, names) , with confidence score 0.0
+
+and (specifier) of the resulting films of colloid (compound, names) , (compound, names) , and S-OHS10 were 102 nm ( (raw_value) ) , 151 nm ( (raw_value) ) with confidence score 0.5
+
+and (specifier) ( (raw_value) ) , implying potential optical applications of these novel (compound, names) hybrid with confidence score 1.0
+
+The (specifier) of GFRP is 2.16 and the (compound, names) film is (raw_value) . with confidence score 1.0
+
+) (compound, names) microspheres ( (specifier) of the particle : np = (raw_value) ) with confidence score 0.0
+
+of (compound, names) or SU-8 resist , the imaging contrast could be strongly strengthened ; however , it was not easy to resolve features below 100 nm because of their low (specifier) ( np = (raw_value) ) with confidence score 0.0
+
+, (compound, names) ( (specifier) of the medium is nm = (raw_value) ) with confidence score 0.0
+
+the (specifier) of polymer ( norg ≈ 1.59 ) and ZrO2 nanoparticles ( (compound, names) ≈ (raw_value) ) with confidence score 1.0
+
+the (specifier) of the (compound, names) anatase framework has been evaluated by measuring the optical constants of the same sample in two different media , as reported by Cohen and coworkers ( see the Supplementary Information for details ) : the obtained value at 1100 nm is (raw_value) , with confidence score 1.0
+
+to (compound, names) and surprisingly , the reported (specifier) over the temperature range of 298.3 – 323 K is a constant value of (raw_value) . with confidence score 0.0
+
+the (specifier) of the (compound, names) film within the range of (raw_value) . with confidence score 0.9865059794791666
+
+catalyzed (compound, names) coating with (specifier) ranging from (raw_value) . with confidence score 1.0
+
+obtained (compound, names) coating with (specifier) from (raw_value) by with confidence score 1.0
+
+the (specifier) of prepared (compound, names) coatings are controllable from (raw_value) . with confidence score 1.0
+
+Fused (compound, names) substrates ( (specifier) of (raw_value) ) with confidence score 1.0
+
+the (compound, names) <Blank> (specifier) nSi = (raw_value) , with confidence score 0.9974999999999999
+
+at (compound, names) beads in air and reported a value of the real component of (specifier) of (raw_value) at with confidence score 1.0
+
+The (specifier) of the (compound, names) was taken to be (raw_value) . with confidence score 0.9941791666666666
+
+bulk (compound, names) ( (specifier) ≈ (raw_value) in with confidence score 1.0
+
+reference (specifier) to be (compound, names) = (raw_value) and with confidence score 1.0
+
+% (compound, names) in water with (specifier) = (raw_value) . with confidence score 1.0
+
+, (compound, names) has been widely used as AR coatings in silicon photovoltaics , due to its wide energy bandgap , matching (specifier) ( (raw_value) for with confidence score 1.0
+
+The (specifier) of the fluorinated HYBRIMER film without a photoinitiator is (raw_value) at 1550 nm , which is almost the same as that of pure (compound, names) . with confidence score 1.0
+
+The (compound, names) spacer layer was approximately 550 nm thick ( (specifier) = (raw_value) ) and the (compound, names) waveguide layer approximately 80 nm thick ( (specifier) = (raw_value) ) with confidence score 1.0
+
+as (compound, names) with (specifier) = (raw_value) . with confidence score 1.0
+
+bulk (compound, names) ( PDMAA ) increasing the (specifier) from (raw_value) for with confidence score 0.0
+
+dispersing (compound, names) nanoparticles in gelatine , (specifier) up to (raw_value) could with confidence score 1.0
+
+estimated (specifier) changes nearly linearly from 1.68 for Ba9Sc2Si6O24 to (raw_value) for (compound, names) . with confidence score 0.9974999999999999
+
+<Blank> (compound, names) solution ( 3.5 M , (specifier) <Blank> (raw_value) ) and (compound, names) ( (specifier) <Blank> (raw_value) ) with confidence score 0.0
+
+the (specifier) was almost uniform across the channel width , with a value close to that of the (compound, names) ( (raw_value) ) with confidence score 0.0
+
+of (compound, names) ( (specifier) = (raw_value) ) with confidence score 0.6598557665904666
+
+hydrated (compound, names) alcohol ) nanocomposite ( HyTiPVA ) with a (specifier) greater than (raw_value) over with confidence score 0.0
+
+( (compound, names) buffer , pH 7.4 , 10 mM , (specifier) = (raw_value) ) with confidence score 0.9457595392918393
+
+For (compound, names) AF 2400 ( (specifier) = (raw_value) ) with confidence score 0.9941791666666666
+
+bare (compound, names) showed a (specifier) of about (raw_value) in with confidence score 1.0
+
+the (specifier) value of mesoporous hybrid Eu(Ti-MAB-S15)2 (NTA)3 ( 7.8 ) is much higher than that of (compound, names) ( (raw_value) ) with confidence score 0.9826493141651041
+
+the (specifier) of (compound, names) ( (raw_value) ) is lower than that of (compound, names) ( (raw_value) ) with confidence score 0.9974999999999999
+
+lowest (specifier) of all inorganic solids ( n589 (compound, names) : (raw_value) ; with confidence score 1.0
+
+, (compound, names) , one of the most widely investigated nano filler materials that is used to enhance the mechanical strength , has a (specifier) of (raw_value) , with confidence score 1.0
+
+the (specifier) between these two layers ( norg ≈ 1.7 and (compound, names) ≈ (raw_value) ) with confidence score 0.9974999999999999
+
+Since (compound, names) : PSS and complex 1 showed (specifier) of (raw_value) and with confidence score 1.0
+
+These (compound, names) are a new class of soluble high (specifier) polymers ( HRIPs ) with the highest value of (raw_value) at with confidence score 1.0
+
+the (compound, names) polymers exhibit (specifier) higher than (raw_value) in with confidence score 1.0
+
+a (specifier) around (raw_value) at the measured wavelength ( Fig. 3 ) , similar to typical (compound, names) . with confidence score 1.0
+
+The (compound, names) have high (specifier) ( above (raw_value) ) with confidence score 1.0
+
+of (compound, names) as dielectric spacer was taken as (specifier) = (raw_value) . with confidence score 0.9824067829151042
+
+in (specifier) between the (compound, names) ( (raw_value) ) with confidence score 1.0
+
+, (compound, names) shows the largest (specifier) of (raw_value) , which is much larger than those of (compound, names) , (compound, names) , and (compound, names) , which are (raw_value) , (raw_value) , and (raw_value) , with confidence score 1.0
+
+M (compound, names) solution ( (specifier) ≈ (raw_value) ) with confidence score 1.0
+
+of (compound, names) can be derived from the high extraordinary (specifier) , which reached (raw_value) at with confidence score 1.0
+
+, (compound, names) has an experimental (specifier) of (raw_value) . with confidence score 0.995
+
+constant (specifier) n0 = 1 ( vacuum ) and n2 = (raw_value) − 0.07i ( (compound, names) substrate with confidence score 1.0
+
+= (raw_value) , the intrinsic (specifier) of (compound, names) ( with confidence score 1.0
+
+are (compound, names) ( (specifier) = (raw_value) + with confidence score 1.0
+
+of (compound, names) glass substrate ( (specifier) <Blank> (raw_value) ) with confidence score 0.0
+
+The (specifier) vary between (raw_value) by using water – (compound, names) solution with confidence score 1.0
+
+The (specifier) of photoresist / (compound, names) ( 8.0 wt % ) is (raw_value) at with confidence score 1.0
+
+the (specifier) of (compound, names) and (compound, names) are (raw_value) and (raw_value) respectively with confidence score 0.0
+
+<Blank> (specifier) of ∼ 4 and (raw_value) were implemented for the AlGaAs and (compound, names) domains with confidence score 0.0
+
+of (compound, names) ) with a thickness of tb = 20 nm and a (specifier) of nb = (raw_value) ( ref. 20 ) was spin - coated on the top of an (compound, names) substrate with a (specifier) of ns = (raw_value) ( with confidence score 1.0
+
+anhydrous (compound, names) has the (specifier) of (raw_value) . with confidence score 0.9974999999999999
+
+The (specifier) of these solutions were calculated using the Lorentz – Lorenz equation together with previously reported refractive index values for (compound, names) and water of na = (raw_value) and with confidence score 1.0
+
+% (compound, names) resulting in a measured (specifier) of (raw_value) . with confidence score 1.0
+
+of (compound, names) has a (specifier) n = (raw_value) at with confidence score 1.0
+
+<Blank> (compound, names) has a (specifier) of (raw_value) at 1550 nm and 25 ° C and therefore absorption of this analyte shifts the attenuation peak to longer wavelengths for the (compound, names) polymer ( (specifier) = (raw_value) ) with confidence score 0.5
+
+central (compound, names) , the core , has a greater refractive index ( (specifier) = (raw_value) ) with confidence score 0.9974999999999999
+
+of (compound, names) ( (specifier) = (raw_value) ; with confidence score 0.9974999999999999
+
+the (compound, names) coating was not doped and therefore its (specifier) was likely lower than (raw_value) , with confidence score 1.0
+
+and (compound, names) solution ( (specifier) = (raw_value) ) used to form the droplet grating , a microfluidic waveguide is formed in which light is mainly confined within the microchannel but not in the (compound, names) cladding layer ( (specifier) = (raw_value) ) with confidence score 1.0
+
+and (compound, names) cladding (specifier) of (raw_value) and with confidence score 0.9974999999999999
+
+measured (specifier) of 99 % (compound, names) solution is (raw_value) . with confidence score 1.0
+
+Porous (compound, names) films with a (specifier) varying from (raw_value) were with confidence score 1.0
+
+the (specifier) of IRE , i.e. (compound, names) ( n1 = (raw_value) ) with confidence score 0.0025
+
+as (compound, names) , (compound, names) , and (compound, names) with (specifier) of (raw_value) , (raw_value) and (raw_value) , with confidence score 1.0
+
+Nano-porous (compound, names) coatings with (specifier) ranged from (raw_value) were with confidence score 1.0
+
+in (compound, names) having a (specifier) of (raw_value) ( with confidence score 1.0
+
+with (compound, names) ( having a (specifier) of (raw_value) ) with confidence score 1.0
+
+<Blank> (specifier) for GLAD (compound, names) films varies from (raw_value) and with confidence score 1.0
+
+ND (compound, names) film exhibits (specifier) value of (raw_value) which with confidence score 1.0
+
+a (specifier) higher than (raw_value) for porous metal oxides such as (compound, names) , with confidence score 1.0
+
+<Blank> (specifier) of (compound, names) and (compound, names) layers are (raw_value) and (raw_value) , with confidence score 1.0
+
+( (specifier) = (raw_value) for MEL type (compound, names) and (specifier) = (raw_value) for (compound, names) ) with confidence score 1.0
+
+lowest (specifier) is above (raw_value) for (compound, names) ) with confidence score 1.0
+
+a (specifier) of (raw_value) was used for the (compound, names) range with confidence score 0.9577872865520268
+
+the (specifier) of the (compound, names) EGDMA ) and (compound, names) layers are (raw_value) and (raw_value) , with confidence score 0.5
+
+of (compound, names) is a little closer to that of PMMA compared with that of DCM , while the (specifier) of EAC ( n = (raw_value) ) is lower than that of (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+a (compound, names) <Blank> (specifier) n = (raw_value) + with confidence score 1.0
+
+measured (compound, names) <Blank> (specifier) [ see eqn ( 2 ) ] in this wavelength range of nITO = (raw_value) , with confidence score 1.0
+
+and (compound, names) ( (specifier) <Blank> (raw_value) ) with confidence score 0.0016666666666666666
+
+of (compound, names) in the wavelengh range studied ( (specifier) <Blank> (raw_value) ) with confidence score 0.0
+
+The (specifier) of the glucose solutions increases from (raw_value) as the (compound, names) concentration with confidence score 0.9974999999999999
+
+higher (specifier) of (compound, names) ( (raw_value) ) compared to that of (compound, names) ( (raw_value) ) with confidence score 1.0
+
+and (compound, names) have similar (specifier) of (raw_value) , with confidence score 0.0
+
+The (specifier) of (compound, names) and (compound, names) are (raw_value) and (raw_value) , with confidence score 0.005125135260416666
+
+for (compound, names) ( (specifier) = (raw_value) ) , and to 807.1 nm for (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+, (compound, names) has a (specifier) of (raw_value) with with confidence score 0.004154166666666667
+
+in (compound, names) , the (specifier) is reduced to (raw_value) for with confidence score 1.0
+
+the (compound, names) TiO2 nanocomposite has a (specifier) of (raw_value) , with confidence score 0.0
+
+and (compound, names) ( aCN3 ) structures starting with a low refractive index ( (specifier) = (raw_value) ) with confidence score 0.9974999999999999
+
+<Blank> (compound, names) ( (specifier) = (raw_value) ) with confidence score 0.9865059794791666
+
+of (compound, names) ( (specifier) = (raw_value) ) with confidence score 0.9377331254854834
+
+and (compound, names) have high reflection intensity due to large (specifier) difference between PVA ( nPVA = (raw_value) ) with confidence score 1.0
+
+and (specifier) of the (compound, names) layer were estimated to be 32.8 ± 0.43 nm and (raw_value) − with confidence score 1.0
+
+complex (specifier) of the (compound, names) layer ( 32.8 ± 0.43 nm and (raw_value) − with confidence score 1.0
+
+high (specifier) contrast material pair , (compound, names) ( nH = (raw_value) ) and (compound, names) ( nL = (raw_value) ) with confidence score 1.0
+
+achieve (specifier) values up to (raw_value) and 1.82 for the resultant porous (compound, names) and with confidence score 1.0
+
+achieve (specifier) values as high as nH = (raw_value) for the (compound, names) stacks with confidence score 1.0
+
+The (specifier) of the porous (compound, names) stack , on the other hand , was nL = (raw_value) . with confidence score 1.0
+
+, (specifier) values from ellipsometry were used ( (raw_value) for (compound, names) multilayer stacks and (raw_value) for (compound, names) multilayer with confidence score 1.0
+
+the (compound, names) AF2400 tube used in this work has a (specifier) of (raw_value) , with confidence score 0.9941791666666666
+
+the (compound, names) prism using a droplet of (specifier) matching liquid ( n : (raw_value) RIU with confidence score 1.0
+
+The (specifier) of AzToMe , AzTo and AzStb were greater than or similar to that of (compound, names) ( (raw_value) ) with confidence score 1.0
+
+The (specifier) of the (compound, names) film was (raw_value) and with confidence score 1.0
+
+the (specifier) of nvoid and nITO for air and (compound, names) are 1 and (raw_value) , with confidence score 1.0
+
+The (specifier) of the (compound, names) film and ITO nanoballs used in the simulation was (raw_value) . with confidence score 1.0
+
+average (specifier) of the (compound, names) nanoball layers from (raw_value) . with confidence score 1.0
+
+dense (compound, names) prepared by the sol – gel process ( (specifier) = (raw_value) ) with confidence score 1.0
+
+<Blank> (specifier) of (raw_value) and (raw_value) for (compound, names) and (compound, names) layers with confidence score 1.0
+
+estimated (specifier) for the (compound, names) layer is slightly larger than the expected one , which ranged between (raw_value) . with confidence score 1.0
+
+and (compound, names) , whose (specifier) are 1.41 and (raw_value) , with confidence score 1.0
+
+the (specifier) of the PTFEMA block is 1.41 ; this is significantly lower than that of most non-fluorinated (compound, names) polymers , which typically range from (raw_value) . with confidence score 1.0
+
+the (specifier) of 1.41 for the semi-fluorinated PTFEMA block is sufficiently close to that for the (compound, names) solvent ( (raw_value) ) with confidence score 1.0
+
+amorphous (compound, names) polymer ) was taken to have a (specifier) of (raw_value) . with confidence score 1.0
+
+materials (compound, names) and (compound, names) glass as the photonic crystal media B and A to design an optical triode , their parameters are : the weak - field (specifier) nb = (raw_value) na = (raw_value) , with confidence score 1.0
+
+amorphous (compound, names) ( Teflon ® AF ) with a (specifier) of (raw_value) provide with confidence score 1.0
+
+using (compound, names) ( (specifier) = (raw_value) ) and water ( n = 1.33 ) as core and cladding liquids , respectively , flowing in (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+higher (specifier) <Blank> (compound, names) ( n = (raw_value) ) with confidence score 0.9974999999999999
+
+by (compound, names) ( (specifier) = (raw_value) ) and reflective titanium at the bottom and (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+of (compound, names) with higher (specifier) ( n = (raw_value) ) with confidence score 1.0
+
+: (compound, names) ( (specifier) = (raw_value) ) , (compound, names) ( (raw_value) ) , (compound, names) ( (raw_value) ) with confidence score 1.0
+
+of (compound, names) and water being similar ( (specifier) = (raw_value) and with confidence score 1.0
+
+with (compound, names) ( assuming 2.75 nm in thickness with a (specifier) of (raw_value) ) with confidence score 1.0
+
+as (compound, names) ( (specifier) = (raw_value) ) and (compound, names) ( (specifier) = (raw_value) ) with confidence score 0.9974999999999999
+
+<Blank> (compound, names) , for example , has a RI of (specifier) = (raw_value) and with confidence score 1.0
+
+static (specifier) of the a-Si films has been reported to be in the range of (raw_value) and that of the polycrystalline (compound, names) films with confidence score 1.0
+
+The (specifier) of the (compound, names) fillers were determined as (raw_value) at with confidence score 0.9680115426334956
+
+crosslinker (compound, names) , the refractive index value of the PMDM-1-ABC-DVTMDS film decreased to 1.59 due to the low (specifier) of the cross-linker ( n(DVTMDS) = (raw_value) ) with confidence score 1.0
+
+dependent (specifier) of (compound, names) ( using (raw_value) at with confidence score 0.9974999999999999
+
+high (specifier) , around (raw_value) in the visible region , is one of the most interesting properties of (compound, names) . with confidence score 1.0
+
+, (compound, names) has a (specifier) in the visible range ( about (raw_value) at with confidence score 1.0
+
+the (specifier) values for bulk pure (compound, names) obtained from eqn ( 4 ) , which agrees well with the value about (raw_value) for with confidence score 1.0
+
+( (compound, names) , (specifier) = (raw_value) ) with confidence score 0.8948568471263048
+
+mean (specifier) np = 1.444 ± 0.007 is significantly smaller than the value of (raw_value) for fused (compound, names) at with confidence score 1.0
+
+oxidized (compound, names) has a real (specifier) of (raw_value) , with confidence score 1.0
+
+The (specifier) of (compound, names) glass at wavelengths close to the fundamental and third harmonic wavelengths of 1028 nm were made available by Schott GmbH ( personal communications ) : n1028 = (raw_value) and with confidence score 1.0
+
+corresponding (specifier) for (compound, names) were used : n773 = (raw_value) , with confidence score 1.0
+
+cyclomatrix (compound, names) had a (specifier) at 589 nm of (raw_value) and with confidence score 1.0
+
+the (compound, names) skeleton has a molar refraction of 6.88 cm3 mol−1 and a molar volume of 14.5 cm3 mol−1 , which corresponds to a (specifier) as high as (raw_value) . with confidence score 1.0
+
+The (compound, names) plate ( (specifier) of (raw_value) ) was replaced by a layer of silicon oxide ( (compound, names) ; (specifier) of (raw_value) ) with confidence score 1.0
+
+% (compound, names) mass fraction , refractive index (specifier) = (raw_value) ) with confidence score 0.9824067829151042
+
+from (compound, names) ; a dielectric material having a band - gap between 2.43 and 4.74 eV ( dependent on growth conditions ) and a (specifier) of n (raw_value) . with confidence score 0.0
+
+a (compound, names) exposure period of 330 s ( with exposure starting at t = 30 s ) , the PP1 film expands by around 5 nm , with its (specifier) increasing from (raw_value) ( with confidence score 1.0
+
+amorphous (compound, names) is not generally considered to be an ideal optical material because of its high adsorption of light , its high (specifier) ( (raw_value) ) with confidence score 0.0
+
+the (specifier) of (compound, names) material ( nwall = (raw_value) ) with confidence score 1.0
+
+high (specifier) ( (raw_value) ) of (compound, names) value with confidence score 0.986324875
+
+were (compound, names) , (compound, names) , (compound, names) and (compound, names) , their (specifier) being in the ranges (raw_value) <Blank> (raw_value) – (raw_value) – 1.55 and (raw_value) respectively with confidence score 0.5
+
+the (specifier) <Blank> (compound, roles) <Blank> (compound, names) for the spectrum in Fig. 8c ( pformic acid = (raw_value) mbar with confidence score 1.0
+
+the (specifier) of (compound, names) ( n = (raw_value) ) with confidence score 0.9815734495817708
+
+levitated (compound, names) droplet ( (specifier) = (raw_value) ) with confidence score 0.9636091425955664
+
+, (compound, names) or P4VP / PS-b-PAA has a relatively high (specifier) ( n = (raw_value) ) with confidence score 0.0
+
+The (specifier) of pure (compound, names) ( TP100 ) is (raw_value) at with confidence score 1.0
+
+The (compound, names) optical glass has a (specifier) ( n = (raw_value) ) with confidence score 1.0
+
+and (specifier) of (compound, names) , TP90 , and TP30 are 100 nm and (raw_value) ; with confidence score 1.0
+
+The (compound, names) content in the hybrid materials could be as high as 90 wt % and thus a relatively high (specifier) of (raw_value) was with confidence score 1.0
+
+used (compound, names) ( nD22 = (raw_value) , ρ = 1.37 g cm−3 ) , methanol ( nD22 = 1.327 , ρ = 0.79 g cm−3 ) , a mixture of 73.5 % ethylene glycol ( nD22 = 1.429 , ρ = 1.11 g cm−3 ) and 26.5 % ethanol ( nD22 = 1.360 , ρ = 0.79 g cm−3 ) with the effective (specifier) matched with confidence score 1.0
+
+<Blank> (compound, names) and (compound, names) ( 4 and 5 ) showed unusually high (specifier) values ( n = (raw_value) and (specifier) = (raw_value) , with confidence score 1.0
+
+a (specifier) of (raw_value) for the (compound, names) cladding with confidence score 0.9739429895412403
+
+with (specifier) approaching the value characteristic for pure (compound, names) ( (raw_value) ) with confidence score 0.0
+
+complex (specifier) for (compound, names) , ñ = (raw_value) − with confidence score 1.0
+
+a (compound, names) ( (specifier) = (raw_value) ) with confidence score 0.9824067829151042
+
+on (compound, names) ( (specifier) = (raw_value) ) the dispersive character of the band - shape is more pronounced than for 10 nm Pt on (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+complex (specifier) of (compound, names) at 1641 cm−1 ( (raw_value) – with confidence score 1.0
+
+the (specifier) ( n ) of the (compound, names) particles was set to (raw_value) . with confidence score 0.9941791666666666
+
+( (compound, names) , titania ) is well - known as an inorganic material having a high (specifier) , i.e. (raw_value) ( with confidence score 0.0
+
+the (specifier) of (compound, names) film for the molecular area of 50 Å2 ( the smallest of three series ) and considering that there is no water in the film , we obtain norg = (raw_value) . with confidence score 1.0
+
+average (specifier) of the (compound, names) film has already been estimated in 2.2.1 ( norg = (raw_value) ) with confidence score 1.0
+
+of (compound, names) with (specifier) between (raw_value) were with confidence score 1.0
+
+M (compound, names) ( (specifier) = (raw_value) ) or 0.1 M (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+the (specifier) of the two solutions ( (raw_value) for 0.2 mol (compound, names) and (raw_value) for 0.1 mol (compound, names) ) with confidence score 0.0
+
+bulk (compound, names) exhibits a higher (specifier) , (raw_value) at with confidence score 1.0
+
+, (compound, names) ( (specifier) = (raw_value) ) with confidence score 0.8813862299804388
+
+the (compound, names) films display a (specifier) of (raw_value) . with confidence score 0.952070971118471
+
+the (specifier) of (compound, names) is relatively high ( 1.497 , compared with (raw_value) for with confidence score 0.0025
+
+<Blank> (compound, names) is a kind of dielectric material , with a high (specifier) of (raw_value) , with confidence score 1.0
+
+, (compound, names) ( (specifier) = (raw_value) ) , (compound, names) ( (specifier) = (raw_value) ) and (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+the (specifier) of bulk (compound, names) is (raw_value) , with confidence score 1.0
+
+<Blank> (compound, names) possesses a (specifier) of (raw_value) ( with confidence score 0.9974999999999999
+
+of (compound, names) ( Sigma-Aldrich ) in order to match a (specifier) of (raw_value) . with confidence score 0.9974999999999999
+
+high (specifier) contrast between (compound, names) and its oxide ( e.g. , nSi ≈ (raw_value) , (compound, names) ≈ (raw_value) , with confidence score 1.0
+
+The (specifier) contrast between (compound, names) core waveguide and Cytop polymer is estimated to be approximately 0.15 , being nPMMA (raw_value) and with confidence score 0.0
+
+the (compound, names) alloy is characterized by a (specifier) as high as (raw_value) @ with confidence score 1.0
+
+, (specifier) <Blank> (compound, names) ≈ (raw_value) in with confidence score 1.0
+
+a (compound, names) hybrid film containing 45 wt % silica - modified anatase - type TiO2nanoparticles with a (specifier) of (raw_value) at with confidence score 0.0
+
+and (specifier) of Colloid (compound, names) , 6TP50 , and 6TP10 were 96 nm and (raw_value) ; with confidence score 1.0
+
+because (compound, names) have a high refractive index ( (specifier) ≈ 2.45 and (raw_value) for with confidence score 1.0
+
+extrapolated (specifier) of the TiO2nanoparticles from linear approximation to 100 % (compound, names) content was (raw_value) , with confidence score 1.0
+
+The (specifier) of the composite increased from (raw_value) for neat (compound, names) to with confidence score 1.0
+
+The (specifier) , n1 , of the electrolyte solutions (compound, names) and LiBTI / PC was determined as (raw_value) and with confidence score 1.0
+
+the (specifier) of water ( 1.33 ) is less than index of (compound, names) ( (raw_value) ) with confidence score 1.0
+
+of (compound, names) ( (specifier) = (raw_value) ) , a material frequently used as the binder with many explosives such as TNT ( n = 1.76 ) , RDX ( n = 1.66 ) and (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+using (compound, names) solution ( (specifier) = (raw_value) ) with confidence score 1.0
+
+, (compound, names) increases the (specifier) from n = (raw_value) to with confidence score 0.9974999999999999
+
+high (specifier) values for (compound, names) ( (raw_value) ) with confidence score 0.9941791666666666
+
+of (compound, names) , that was supposed to result in a (specifier) equal to (raw_value) , with confidence score 1.0
+
+; (specifier) = (raw_value) ( (compound, names) ) with confidence score 1.0
+
+hollow (compound, names) nanospheres ( HSNs ) could further be introduced into the porous film to get an extremely high porosity and (specifier) as low as (raw_value) . with confidence score 1.0
+
+of (compound, names) ( (specifier) = (raw_value) , with confidence score 0.9733026498277035
+
+their (specifier) ( at 589 nm ) used in the work are as follows : (compound, names) ( (raw_value) ) , water ( 1.332 ) , (compound, names) ( (raw_value) ) , (compound, names) ( THF ) ( (raw_value) ) , (compound, names) ( (raw_value) ) , (compound, names) ( (raw_value) ) , and (compound, names) ( (raw_value) ) with confidence score 1.0
+
+against (compound, names) ( (specifier) -- (raw_value) ) with confidence score 0.9941791666666666
+
+the (compound, names) microcrystal thin films in different dispersions whose (specifier) ranges from (raw_value) . with confidence score 1.0
+
+The (specifier) of the copolymer coating in a dry state , calculated for the (compound, names) according to ( 5 ) is nd1 = (raw_value) . with confidence score 0.0
+
+the (compound, names) coating with a dry state thickness dd1 = 54 nm and (specifier) nd1 = (raw_value) are with confidence score 0.0
+
+The (specifier) of the (compound, names) AF 2400 is (raw_value) . with confidence score 0.9824067829151042
+
+The (specifier) of the rinsed films ( Fig. 4(a) ) shows that , as the number of deposition steps increases , first (compound, names) reaches an essentially constant value of 1.453 after 3 steps , then PGA – PLL reaches an essentially constant value of (raw_value) after with confidence score 0.0
+
+the (compound, names) precursor layer and has a (specifier) ( n1 ) of (raw_value) and with confidence score 1.0
+
+a (compound, names) glass ( (specifier) = (raw_value) ) with confidence score 0.9974999999999999
+
+aqueous (compound, names) solution with (specifier) ranging from (raw_value) RIU with confidence score 1.0
+
+<Blank> (compound, names) has a high Vd of 58 but a relatively low (specifier) of (raw_value) . with confidence score 1.0
+
+a (compound, names) with a high (specifier) of (raw_value) ( with confidence score 1.0
+
+The (specifier) of (compound, names) and PEBA were found to be (raw_value) at with confidence score 0.9672150285320659
+
+The (specifier) ( n ) of the (compound, names) shell was (raw_value) and with confidence score 0.9974999999999999
+
+effective (specifier) of the guided mode ( n0 ≈ (raw_value) in our fused (compound, names) waveguides with confidence score 1.0
+
+of (compound, names) ( (specifier) <Blank> (raw_value) ) and (compound, names) ( (specifier) <Blank> (raw_value) ) with confidence score 0.5
+
+a (specifier) of (raw_value) in the same conditions , the addition of (compound, names) in with confidence score 0.995
+
+The (specifier) of (raw_value) M (compound, names) solution with confidence score 0.9729579146662402
+
+measured (specifier) for (compound, names) SOA ( (raw_value) ) with confidence score 1.0
+
+: (compound, names) ( (specifier) = (raw_value) ) , (compound, names) ( (specifier) = (raw_value) ) , initiator ( n = 1.48 ) , and (compound, names) ( n = (raw_value) ) and the last layer represents the medium in which the sample is deposited : air ( (specifier) = with confidence score 1.0
+
+from (compound, names) particles with size of 195 nm as an example , the (specifier) of the wetted film is (raw_value) , with confidence score 0.0
+
+the (specifier) for (compound, names) , (compound, names) , air and methanol were taken as (raw_value) , (raw_value) , with confidence score 0.9974999999999999
+
+as (compound, names) nanoparticle with hundreds of nanometers in diameter ( the (specifier) : (raw_value) ) with confidence score 1.0
+
+monodisperse (compound, names) , polymethyl methacrylate ( (compound, names) ) and polystyrene ( (compound, names) ) particles ( Shanghai Huge Biotechnology Co. , Ltd , Shanghai , China ) have (specifier) of (raw_value) , (raw_value) , and (raw_value) , with confidence score 1.0
+
+the (specifier) obtained were n = (raw_value) for the (compound, names) and with confidence score 1.0
+
+Bare (compound, names) sensors were initially modeled to determine background layer parameters and (specifier) – d continua were calculated by modeling CNC film thickness for refractive indices between (raw_value) with with confidence score 1.0
+
+M (compound, names) ( (specifier) RATIO OF (raw_value) ) with confidence score 0.007158029793229167
+
+complex (specifier) of glass , (compound, names) , and (compound, names) at a wavelength of 800 nm are 1.45 , (raw_value) + 0.006i , and (raw_value) + with confidence score 1.0
+
+of (compound, names) ( (specifier) = ca. (raw_value) ) and (compound, names) ( (specifier) = ca. (raw_value) ) with confidence score 1.0
+
+of (compound, names) and (compound, names) were 1.19 nm and 1.08 nm , and their fitted (specifier) were ca. (raw_value) and (raw_value) , with confidence score 1.0
+
+The (specifier) values ranged from 1.4673 ( WBIG ) to (raw_value) ( (compound, names) ) with confidence score 0.9974999999999999
+
+of (compound, names) , which is well - known to have peak transmittances less than 98 % , due to its non-ideal refractive index ( (specifier) ≈ (raw_value) ) with confidence score 1.0
+
+and (compound, names) NPs are comparable ( (specifier) ≈ (raw_value) ) with confidence score 1.0
+
+were (compound, names) with (specifier) of (raw_value) , with confidence score 0.9865059794791666
+
+the (specifier) of the lens is tuned at (raw_value) , which is higher than the surrounding (compound, names) , with confidence score 1.0
+
+the (compound, names) to achieve (specifier) of (raw_value) for with confidence score 1.0
+
+<Blank> (compound, names) is the liquid with the highest (specifier) of (raw_value) while with confidence score 1.0
+
+The (compound, names) ( (specifier) = (raw_value) ) and (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+with (compound, names) ( (specifier) = (raw_value) ) with confidence score 0.9739429895412403
+
+the (compound, names) ( (specifier) = (raw_value) ) with confidence score 0.943314225119725
+
+the (compound, names) crystal with a (specifier) of (raw_value) . with confidence score 0.9916916666666667
+
+with (compound, names) with (specifier) of (raw_value) which is higher than the surrounding (compound, names) with (specifier) of (raw_value) . with confidence score 1.0
+
+with (compound, names) with (specifier) of (raw_value) is with confidence score 0.9974999999999999
+
+the (specifier) of the pure (compound, names) substrate is (raw_value) and with confidence score 0.9941791666666666
+
+higher (specifier) values , of around (raw_value) , were reported for (compound, names) thin with confidence score 1.0
+
+phase (compound, names) layers with (specifier) values around (raw_value) for with confidence score 1.0
+
+The (specifier) of pure (compound, names) , (compound, names) , VHB and (compound, names) films was measured with Abbe refractometer as (raw_value) , (raw_value) , 1.473 and (raw_value) , with confidence score 1.0
+
+A (compound, names) layer is chosen because of its higher (specifier) ( (raw_value) ) with confidence score 0.0025
+
+doped (compound, names) ( (specifier) ≈ (raw_value) ) with confidence score 1.0
+
+cubic (compound, names) ( see Fig. S1 ( b ) for XRD pattern ) , with an isotropic (specifier) of (raw_value) at with confidence score 1.0
+
+of (compound, names) ( (specifier) ( n ) = (raw_value) ) , PS ( n = 1.58 ) and (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+as-prepared (compound, names) sphere ( (specifier) = (raw_value) ( with confidence score 1.0
+
+, (compound, names) spheres were crystallized into anatase phase but the (specifier) reduced to (raw_value) . with confidence score 1.0
+
+high (specifier) material such as monodispersed submicron (compound, names) spheres ( n = (raw_value) ) with confidence score 1.0
+
+and (raw_value) ( (compound, names) ) , 1.90 ( ITO ) and (raw_value) ( (compound, names) ) were used as the (specifier) . with confidence score 1.0
+
+fabricated (compound, names) based hybrid showed excellent optical transparency with high (specifier) ( n = (raw_value) ) with confidence score 1.0
+
+of (compound, names) , the films showed higher optical transparency in the visible region ; the (specifier) of films increased from (raw_value) at with confidence score 1.0
+
+if (compound, names) was used , which has a (specifier) of (raw_value) , with confidence score 1.0
+
+The (specifier) of (compound, names) , (compound, names) , and (compound, names) are approximately (raw_value) , (raw_value) , and (raw_value) , with confidence score 1.0
+
+, (compound, names) possesses a high (specifier) ( n = (raw_value) – with confidence score 1.0
+
+The (specifier) of the nanocomposite films increased from 1.568 for neat polymer to (raw_value) for GNPs – (compound, names) with with confidence score 0.0
+
+a (compound, names) jacket ( a (specifier) of about (raw_value) ) with confidence score 0.9974999999999999
+
+low (specifier) contrast in the commonly used PCs fabricated with (compound, names) ( PS ) or SiO2 spheres ( with refractive indexes smaller than (raw_value) ) with confidence score 1.0
+
+the (specifier) of the (compound, names) coatings triggered by CuSO4 / H2O2 reaches (raw_value) at with confidence score 1.0
+
+the (specifier) of ordered mesoporous (compound, names) coating and the solid skeleton ( (raw_value) ) with confidence score 1.0
+
+a (compound, names) ( PMMA ) microscope slide , with a (specifier) of (raw_value) . with confidence score 1.0
+
+A (compound, names) prism ( (specifier) at 632.8 nm of (raw_value) ) with confidence score 0.9974999999999999
+
+Using (compound, names) as chip material ( (specifier) exceeding (raw_value) ) sandwiched between two layers of (compound, names) glass ( (specifier) in the range of (raw_value) ) with confidence score 0.5
+
+underlying (compound, names) substrate is removed , as they can not reflect light efficiently due to the intrinsic limitations of NAA ( i.e. low (specifier) − nalumina = (raw_value) and with confidence score 1.0
+
+( (compound, names) 0.5 M , ethanol and (compound, names) ( IPA ) ) in order to achieve a broad contrast of the (specifier) of the medium filling the nanopores ( i.e. (raw_value) , (raw_value) and (raw_value) RIU with confidence score 0.6666666666666666
+
+higher (specifier) than air ( e.g. (compound, names) = (raw_value) RIU with confidence score 1.0
+
+hollow (compound, names) nanoparticles have a (specifier) n of (raw_value) at with confidence score 0.9974999999999999
+
+doped (compound, names) film exhibits a low (specifier) value of (raw_value) at with confidence score 1.0
+
+low (specifier) of (compound, names) ( nH = (raw_value) ) with confidence score 0.9715170582678496
+
+with (specifier) close to (raw_value) or higher have also been developed such as (compound, names) derived with confidence score 1.0
+
+nanoporous (compound, names) with very low index ( (specifier) <Blank> (raw_value) ) with confidence score 1.0
+
+<Blank> (compound, names) is a uniaxial birefringent crystal whose (specifier) are about (raw_value) and with confidence score 1.0
+
+the (compound, names) and HDA – QD films had the lowest (specifier) ( (raw_value) and with confidence score 1.0
+
+as (compound, names) ( refractive index of (raw_value) ) and (compound, names) ( (specifier) of (raw_value) ) with confidence score 1.0
+
+The (specifier) of the (compound, names) material is (raw_value) at with confidence score 0.911232955422022
+
+high (specifier) of the (compound, names) ( (raw_value) ) with confidence score 0.9489524741927766
+
+to (raw_value) ( (compound, names) ) , the reflection peaks of hollow PDA amorphous arrays almost remain at the same position ( Fig. 3e , f and Table S2 , ESI ) , probably owing to the small variations of (specifier) . with confidence score 1.0
+
+modified (compound, names) ( ORMOSIL ) thin films with a (specifier) of (raw_value) were with confidence score 1.0
+
+inorganic (compound, names) thin film with (specifier) varying from (raw_value) were with confidence score 1.0
+
+inorganic (compound, names) thin films with (specifier) varying from (raw_value) were with confidence score 1.0
+
+catalyzed (compound, names) to base - catalyzed silica is 0.0 and 0.2 , the (specifier) of inorganic silica thin films are (raw_value) and with confidence score 1.0
+
+colloid (compound, names) , F-6FZr50 , and (compound, names) for the first , second , and third layer with a thickness and (specifier) of 38 nm ( (raw_value) ) , 92 nm ( 1.80 ) , and 70 nm ( (raw_value) ) with confidence score 0.5
+
+lowest (specifier) for dielectric materials like (compound, names) is on the order of (raw_value) , with confidence score 1.0
+
+effective (specifier) of porous (compound, names) to neff = (raw_value) , with confidence score 1.0
+
+achieve (specifier) values of (raw_value) and (raw_value) for the resultant porous (compound, names) and (compound, names) nanoparticle with confidence score 1.0
+
+sufficient (specifier) contrast : (compound, names) ( PDMS ) with nPDMS = (raw_value) and a (compound, names) triblock copolymer ( PS – PI ) with nPS – PI = (raw_value) . with confidence score 1.0
+
+on (compound, names) ( PC ) and (compound, names) which have low (specifier) contrast ( nPC = (raw_value) and nPVDF = (raw_value) ) with confidence score 1.0
+
+of (compound, names) ( PDA ) , a type of synthetic melanin with (specifier) nPDA = (raw_value) . with confidence score 1.0
+
+high (specifier) of (compound, names) ( nZrO2 = (raw_value) ) with confidence score 1.0
+
+The (specifier) ratio ( r ) is varied from 1.08 to 1.25 by selecting (compound, names) ( n1 = (raw_value) ) , (compound, names) matching liquid ( n1 = (raw_value) ) with confidence score 1.0
+
+Since (compound, names) ( PDMS ) is one of the common microfluidic materials and its (specifier) ( nPDMS = (raw_value) at with confidence score 1.0
+
+of (compound, names) ( (specifier) <Blank> (raw_value) ) with confidence score 0.0016500416666666666
+
+the (specifier) of (compound, names) , halogen , and sulfur - rich polymers increase to more than ca. (raw_value) due with confidence score 1.0
+
+a (specifier) higher than that of (compound, names) ( nPDMS = (raw_value) ) with confidence score 1.0
+
+low (specifier) contrast between the (compound, names) films ( n (raw_value) ) with confidence score 0.9791230758302084
+
+containing (compound, names) ( nEG = (raw_value) ) , which acts as a high (specifier) core with confidence score 1.0
+
+the (specifier) for all the crystals in the (compound, names) family were essentially the same at (raw_value) , with confidence score 1.0
+
+in (compound, names) ( (specifier) <Blank> (raw_value) ) and (compound, names) ( (specifier) <Blank> (raw_value) ) with confidence score 0.5
+
+solvent (specifier) was varied from (raw_value) ( (compound, names) ) to (raw_value) ( (compound, names) ) with confidence score 1.0
+
+The (specifier) for (compound, names) and (compound, names) was taken equal as (raw_value) . with confidence score 0.9974999999999999
+
+of (compound, names) in the precursor solution was successfully increased up to 90 % without any gel formation and the (specifier) of the prepared films were reported to be in the range of (raw_value) . with confidence score 1.0
+
+% (compound, names) solution was introduced into the coupler , due to high (specifier) ( n ≈ (raw_value) ) with confidence score 1.0
+
+The (specifier) of ME - capped ZnS NPs can be obtained by extrapolating to 100 % from Fig. 11A , and the value is just 1.774 , lower than that of bulk (compound, names) ( (raw_value) ) with confidence score 1.0
+
+the (specifier) of the (compound, names) ( (raw_value) ) with confidence score 0.9369564986314471
+
+match (compound, names) coated particles where the shell has a (specifier) , ns = (raw_value) , with confidence score 1.0
+
+the (specifier) of (compound, names) is (raw_value) . with confidence score 0.9757709128320097
+
+like (compound, names) ( TeO2 , (specifier) <Blank> (raw_value) ) with confidence score 0.0
+
+The (specifier) of poly-Si and (compound, names) are 3.478 and (raw_value) at with confidence score 0.9941791666666666
+
+the (specifier) of the media where transmitted and incident light propagates , ni = (raw_value) ( (compound, names) ) with confidence score 1.0
+
+shell (specifier) , m650 nm , was 1.4359 ± 0.0042 which is lower than pure (compound, names) ( m589 nm = (raw_value) ( with confidence score 1.0
+
+the (specifier) of (compound, names) as n = (raw_value) and with confidence score 0.9814117829151041
+
+like (compound, names) ( (specifier) = (raw_value) ) with confidence score 0.9974999999999999
+
+Inc. (specifier) of both (compound, names) is (raw_value) , with confidence score 1.0
+
+high (specifier) ( (compound, names) , n = (raw_value) ) with confidence score 0.9974999999999999
+
+chose (compound, names) as a model material to build photonic crystals owing to its higher (specifier) of (raw_value) in comparison with the case of polystyrene ( PS ) or (compound, names) ( (raw_value) ) with confidence score 1.0
+
+the (specifier) of (compound, names) and air are (raw_value) and with confidence score 1.0
+
+the (specifier) of the Cu2O spheres is lower than that of the bulk (compound, names) materials ( (raw_value) ) with confidence score 1.0
+
+of (compound, names) with a (specifier) of (raw_value) were with confidence score 1.0
+
+the (specifier) of the background (compound, names) is set as n = (raw_value) . with confidence score 0.9958458333333332
+
+the (specifier) ( (raw_value) at for (compound, names) and with confidence score 1.0
+
+the (compound, names) foil ( (specifier) = (raw_value) ) with confidence score 1.0
+
+the (specifier) of glass is (raw_value) ( (compound, names) at with confidence score 1.0
+
+layer (compound, names) is the most commonly used ARCs under this type because its (specifier) is (raw_value) and with confidence score 1.0
+
+Sprayable (compound, names) ARCs for solar cells in 1980 , two - layer interference ARCs ( layer 1 : TiO2 (specifier) <Blank> (raw_value) , layer 2 : 10 % TiO2 , 90 % (compound, names) <Blank> (specifier) <Blank> (raw_value) ) with confidence score 1.0
+
+<Blank> (compound, names) has been widely used as ARCs in silicon photovoltaics due to its matching (specifier) ( anatase (raw_value) , with confidence score 1.0
+
+Amorphous (compound, names) ( a : DLC ) like carbon films as hard AR coatings for Si solar cells [139] exhibit a transparency of 90 % in VIS region and (specifier) varying between (raw_value) and with confidence score 1.0
+
+with (compound, names) and TiO2 ARC for some time though SiO2 did not match optically ( (specifier) = (raw_value) ) with confidence score 1.0
+
+of (compound, names) d wavelength ( i.e. , (specifier) = (raw_value) ) with confidence score 0.9772190097148142
+
+mostly (compound, names) coatings with (specifier) of (raw_value) and with confidence score 0.0
+
+) (compound, names) ( (specifier) = (raw_value) , with confidence score 0.9941791666666666
+
+) (compound, names) ( Sigma Aldrich ) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+whilst (compound, names) , the analogue for the formed carboxylic acid group , has a very low (specifier) of Δn589 = (raw_value) . with confidence score 1.0
+
+of (specifier) n for pristine (compound, names) is reported as (raw_value) at with confidence score 1.0
+
+the (specifier) of (compound, names) was set to (raw_value) . with confidence score 0.9123751115295377
+
+and (compound, names) ( PS , (specifier) = (raw_value) ) with confidence score 1.0
+
+<Blank> (compound, names) is a transparent liquid with a relatively high (specifier) ( n = (raw_value) ) with confidence score 1.0
+
+as (compound, names) ( (specifier) <Blank> (raw_value) , with confidence score 0.0
+
+( (compound, names) ) ( (specifier) <Blank> (raw_value) ) with confidence score 0.0025
+
+as (compound, names) ( a (specifier) typically between (raw_value) ) with confidence score 1.0
+
+higher (specifier) ( (raw_value) for (compound, names) and (raw_value) for (compound, names) ) with confidence score 1.0
+
+is (compound, names) optical glass , which has a (specifier) of (raw_value) at with confidence score 1.0
+
+, (specifier) of (compound, names) is (raw_value) , with confidence score 0.9941791666666666
+
+The (specifier) of (compound, names) and absorbance were set to (raw_value) and with confidence score 0.9586872176463958
+
+The (specifier) of the (compound, names) substrate was (raw_value) . with confidence score 1.0
+
+the (compound, names) , which all have (specifier) greater than (raw_value) , with confidence score 0.0
+
+, (compound, names) ( which have a (specifier) of (raw_value) ) with confidence score 1.0
+
+or (compound, names) ( (specifier) = (raw_value) ) with confidence score 0.9824067829151042
+
+<Blank> (compound, names) saturated with sulfur is another commercially available high (specifier) ( (raw_value) ) with confidence score 1.0
+
+colourless (compound, names) ( (specifier) = (raw_value) ) , orange (compound, names) ( (specifier) = (raw_value) ) , brown (compound, names) ( (specifier) = (raw_value) ) , and cubic (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+, (compound, names) ( (specifier) = (raw_value) ) , and (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+the (specifier) of (compound, names) of (raw_value) . with confidence score 0.9782090347148144
+
+viz. (compound, names) , (compound, names) and (compound, names) , exhibit the highest (specifier) ; (raw_value) , (raw_value) , and (raw_value) , with confidence score 1.0
+
+predicted (compound, names) <Blank> (specifier) of 2.09 , shown in red in Fig. 6(a) , is clearly much higher than the actual measured value of (raw_value) , with confidence score 1.0
+
+between (compound, names) ( (specifier) = (raw_value) ) and (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+brown (compound, names) ( (specifier) = (raw_value) ) and (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+toxic (compound, names) saturated with sulfur ( (specifier) = (raw_value) ) with confidence score 1.0
+
+the (compound, names) refractive index (specifier) = (raw_value) and with confidence score 0.9904582708333333
+
+anhydrous (compound, names) ( nonpolar , (specifier) = (raw_value) ) and (compound, names) ( polar , (specifier) = (raw_value) ) with confidence score 0.5
+
+, (compound, names) solution ( (specifier) <Blank> (raw_value) ) with confidence score 0.0025
+
+crystallized (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+, (specifier) of (raw_value) ( comparable to that of a (compound, names) monolayer ) and a film of 1.74 ( comparable to that of the FITC - APTES monolayer ) onto the sensor surface , with an effectively infinite layer of (compound, names) above ( (specifier) = (raw_value) ) with confidence score 0.5
+
+, (compound, names) was necessary ( (specifier) = (raw_value) ) with confidence score 1.0
+
+its (specifier) was found as (raw_value) on (compound, names) and (raw_value) on (compound, names) . with confidence score 1.0
+
+( (compound, names) , sporopollenin , etc. ) have a constant part of the (specifier) of about (raw_value) in with confidence score 1.0
+
+transparent (compound, names) nanocomposites with tunable (specifier) ranging from (raw_value) have with confidence score 1.0
+
+The (specifier) of the (compound, names) films changes between (raw_value) at with confidence score 0.9904582708333333
+
+pure (compound, names) <Blank> (specifier) of (raw_value) . with confidence score 1.0
+
+their (specifier) ( (specifier) of (compound, names) and (compound, names) are (raw_value) and (raw_value) , with confidence score 1.0
+
+( (compound, names) , refractive index (specifier) = (raw_value) ) sandwiched between two cladding streams ( a mixture of 73.5 % (compound, names) ( (specifier) = (raw_value) ) and 26.5 % (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+, (compound, names) or optical oil ( (specifier) = (raw_value) ) with confidence score 1.0
+
+the (specifier) of the (compound, names) film from (raw_value) . with confidence score 0.995
+
+the (specifier) of (compound, names) coatings was tuned from (raw_value) at with confidence score 0.013535993652632836
+
+as-prepared (compound, names) film , of which the (specifier) is (raw_value) ( with confidence score 1.0
+
+The (specifier) of the calcined (compound, names) film and the prepared acid - catalyzed (compound, names) film , measured by ellipsometry , were (raw_value) and (raw_value) , with confidence score 1.0
+
+The (specifier) of the (compound, names) nanocomposite could be varied from (raw_value) simply with confidence score 0.009975000000000001
+
+The (specifier) of the (compound, names) – PDMS nanocomposite could be varied from (raw_value) simply with confidence score 1.0
+
+the (specifier) of (compound, names) at 30.0 ° C ( (raw_value) ) with confidence score 0.9865059794791666
+
+hollow (compound, names) microcolumns , we set the refractive index at (specifier) = (raw_value) and with confidence score 0.9974999999999999
+
+low (specifier) value of 1.3853 being observed , comparable to the indices of perfluorinated polymers ( for example , (compound, names) ® : (raw_value) ) with confidence score 1.0
+
+reduced (specifier) value of 1.3853 is very low , and is comparable to the indices of perfluorinated polymers ( e.g. (compound, names) ® : (raw_value) ) with confidence score 1.0
+
+µm (compound, names) films exposed to 308 nm light had a (specifier) drop from (raw_value) while with confidence score 1.0
+
+of (compound, names) in that the (specifier) of HSQ – TTBPS-Tf – PNC films with a PNC loading of 10 % dropped from (raw_value) when with confidence score 1.0
+
+by (specifier) values dropping below that of pure (compound, names) control films ( (raw_value) ) with confidence score 1.0
+
+had (specifier) values of 1.302 compared to a value of (raw_value) for a pure (compound, names) control with confidence score 1.0
+
+The (specifier) at 589 nm of 1P was (raw_value) and was the highest of the (compound, names) in with confidence score 1.0
+
+The (specifier) of the nanoporous (compound, names) thin film measured by ellipsometry is (raw_value) at with confidence score 0.9974999999999999
+
+bulk (compound, names) exhibits a high (specifier) ( n = (raw_value) at with confidence score 1.0
+
+The (specifier) of (compound, names) listed by Sigma-Aldrich as (raw_value) , with confidence score 1.0
+
+respective (specifier) of (compound, names) given in this work , by Bonhôte et al. , Lee and co-workers , and Sigma-Aldrich are (raw_value) , with confidence score 1.0
+
+available (specifier) of (compound, names) , (raw_value) ( with confidence score 1.0
+
+<Blank> (compound, names) ( (specifier) = (raw_value) at with confidence score 1.0
+
+the (specifier) of (compound, names) along x , y and z directions are (raw_value) , with confidence score 0.9521229611813182
+
+of (compound, names) thin films , such as the excellent optical transparency , easy fabrication , high (specifier) ( n = (raw_value) ) with confidence score 1.0
+
+or (compound, names) ( PET ) with (specifier) of around (raw_value) therefore with confidence score 1.0
+
+static (specifier) n(0) of ideal , V1Bi , V1V , and (compound, names) are 2.880 , 6.187 , 13.106 and (raw_value) , with confidence score 1.0
+
+These (compound, names) exhibited very high (specifier) in the range of (raw_value) and with confidence score 1.0
+
+based (compound, names) with high (specifier) over (raw_value) , with confidence score 1.0
+
+obtained (compound, names) are soluble in 1,1,2,2-tetrachloroethane ( TCE ) , N-methylpyrrolidone ( NMP ) , and DMPU , and they exhibit high (specifier) in the range of (raw_value) , with confidence score 1.0
+
+<Blank> (compound, names) particles ( PS , (specifier) = (raw_value) ) with confidence score 1.0
+
+<Blank> (compound, names) solution was used as the benchmark for calibration and the nonlinear (specifier) was calculated to be (raw_value) × with confidence score 1.0
+
+while (compound, names) ( PET ) has a refractive index of (specifier) = (raw_value) at with confidence score 0.0025
+
+using (compound, names) vary from (specifier) = (raw_value) ( with confidence score 1.0
+
+of (compound, names) and found values for the real part of the (specifier) varying from n = (raw_value) . with confidence score 1.0
+
+, (compound, names) ( (specifier) = (raw_value) , with confidence score 0.9974999999999999
+
+Employing (compound, names) ( (specifier) = (raw_value) , with confidence score 0.9999999999991079
+
+3a (compound, names) <Blank> (specifier) = (raw_value) ) with confidence score 0.995
+
+the (specifier) of the (compound, names) was set to (raw_value) . with confidence score 0.9974999999999999
+
+The (specifier) of the (compound, names) thin film were estimated to be about 0.67 μm and (raw_value) , with confidence score 0.9739429895412403
+
+and (compound, names) ( (specifier) = (raw_value) ) with confidence score 0.8497236968702679
+
+sputtered (compound, names) ( (specifier) = (raw_value) at with confidence score 0.9999999999998523
+
+the (specifier) of (compound, names) is (raw_value) at with confidence score 0.009851656667155576
+
+to (compound, names) ( (specifier) = (raw_value) ) with confidence score 0.9782090347148144
+
+<Blank> (compound, names) with a (specifier) of (raw_value) and with confidence score 0.8265986323710904
+
+the (compound, names) rich content in SiNx film ( (specifier) = (raw_value) ) with confidence score 0.9842622294791666
+
+from (compound, names) Y the refractive index of faujasite ( (specifier) = (raw_value) ) with confidence score 0.9904582708333333
+
+and (compound, names) , whose (specifier) are (raw_value) , with confidence score 0.8309401076758502
+
+high (specifier) of (compound, names) ( np = (raw_value) ) with confidence score 0.8666666666666668
+
+the (specifier) of (compound, names) is (raw_value) at with confidence score 0.9941791666666666
+
+estimated (specifier) of (compound, names) is (raw_value) . with confidence score 0.999105772869952
+
+swollen (compound, names) ( (specifier) > (raw_value) ) with confidence score 0.9974999999999999
+
+for (compound, names) ( (specifier) = (raw_value) ) with confidence score 0.9739429895412403
+
+of (specifier) = (raw_value) ( (compound, names) ) with confidence score 0.9941791666666666
+
+of (compound, names) monomer ( (specifier) = (raw_value) ) with confidence score 0.8662181235367126
+
+as (compound, names) , (compound, names) , benzene and (compound, names) present values of (specifier) of (raw_value) , 1.42115 , (raw_value) and (raw_value) , with confidence score 0.8031471149485698
+
+– (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+of (compound, names) ( (specifier) = (raw_value) and with confidence score 1.0
+
+vaporizing (compound, names) ( (specifier) = (raw_value) , with confidence score 1.0
+
+with (compound, names) ( (specifier) = (raw_value) at with confidence score 0.9974999999999999
+
+is (compound, names) ( (specifier) = (raw_value) ; with confidence score 0.9974999999999999
+
+% (compound, names) ( (specifier) = (raw_value) ; with confidence score 1.0
+
+as (compound, names) ( (specifier) = (raw_value) ) with confidence score 0.9565209505494501
+
+% (compound, names) ( (specifier) = (raw_value) ) with confidence score 0.9752787038269546
+
+in (compound, names) ( (specifier) = (raw_value) ) with confidence score 0.9326735587725735
+
+The (specifier) of (compound, names) is (raw_value) , with confidence score 0.9368690642788822
+
+the (specifier) of (compound, names) is about (raw_value) . with confidence score 0.9974999999999999
+
+average (specifier) of (compound, names) ( (raw_value) ) with confidence score 0.9
+
+as (compound, names) having a (specifier) of (raw_value) ( with confidence score 0.8999999999999999
+
+The (specifier) for (compound, names) ( (raw_value) ) with confidence score 0.9974999999999999
+
+The (specifier) of (compound, names) is (raw_value) over with confidence score 0.9998328223775926
+
+either (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+a (compound, names) film ( (specifier) = (raw_value) ) with confidence score 0.9958474175182234
+
+on (compound, names) , with a (specifier) of (raw_value) , with confidence score 0.9
+
+the (specifier) of (compound, names) is (raw_value) in with confidence score 0.9999832046669306
+
+and (compound, names) ( (specifier) = (raw_value) , with confidence score 1.0
+
+the (specifier) of (compound, names) ( ns = (raw_value) ) with confidence score 0.9770923845900777
+
+the (compound, names) film ( (specifier) = (raw_value) ) with confidence score 0.9941791666666666
+
+of (compound, names) dielectrics ( (specifier) = (raw_value) ) with confidence score 0.9577894079396967
+
+the (specifier) lower than that of the bulk (compound, names) ( (raw_value) ) with confidence score 0.9669924601310185
+
+calculated (specifier) of (compound, names) is (raw_value) , with confidence score 0.999996418022549
+
+with (compound, names) glass ( (specifier) = (raw_value) ) with confidence score 0.9877949906821535
+
+of (compound, names) ( (specifier) = (raw_value) for with confidence score 0.9941791666666666
+
+for (compound, names) with a (specifier) of (raw_value) ( with confidence score 0.9974999999999999
+
+the (compound, names) layer ( (specifier) = (raw_value) ) with confidence score 0.9974999999999999
+
+of (compound, names) ( (specifier) ≈ (raw_value) ) with confidence score 0.9824067829151042
+
+tunable (specifier) ( (raw_value) for (compound, names) and (raw_value) for (compound, names) ) with confidence score 0.0
+
+the (specifier) of (compound, names) = (raw_value) ) with confidence score 0.9934581904290511
+
+doped (compound, names) wafer substrate with a refractive index of (specifier) = (raw_value) . with confidence score 0.8380617018914066
+
+high (specifier) of anatase (compound, names) ( (raw_value) ) with confidence score 0.9916916666666667
+
+between (compound, names) ( (specifier) = (raw_value) ) with confidence score 0.9696288301490896
+
+grade (compound, names) ( (specifier) = (raw_value) ) with confidence score 0.9974999999999999
+
+If (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+that (compound, names) has a lower refractive index ( (specifier) = (raw_value) ) with confidence score 0.9694444444444444
+
+the (compound, names) ( (specifier) ≈ (raw_value) ) with confidence score 0.9974999999999999
+
+linear (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+pure (compound, names) ( (specifier) = (raw_value) ) with confidence score 0.9904582708333333
+
+the (specifier) of (compound, names) varies in a small range (raw_value) for with confidence score 0.9904582708333333
+
+index (compound, names) ( (specifier) = (raw_value) ) with confidence score 0.9974999999999999
+
+liquid (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+, (compound, names) ( (specifier) : (raw_value) ) with confidence score 0.9
+
+The (specifier) of (compound, names) is (raw_value) + with confidence score 0.9999963659360097
+
+the (specifier) of (compound, names) and P(AMSt-FMA) were (raw_value) and with confidence score 0.8666666666666668
+
+in (compound, names) with a (specifier) of (raw_value) , with confidence score 0.9974999999999999
+
+while (compound, names) has a lower refractive index ( (specifier) = (raw_value) ) with confidence score 0.9961041666666667
+
+and (compound, names) ( (specifier) ≈ (raw_value) ) with confidence score 0.995
+
+The (specifier) of (compound, names) is (raw_value) and with confidence score 0.9941791666666666
+
+rutile (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+from (compound, names) ( (specifier) = (raw_value) ) with confidence score 0.9974999999999999
+
+rutile (compound, names) ( (specifier) = (raw_value) , with confidence score 1.0
+
+reference (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+Beside (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+the (specifier) of (compound, names) ( (raw_value) ) with confidence score 0.8942568305760293
+
+the (compound, names) and optical liquid ( (specifier) = (raw_value) ) with confidence score 0.0025
+
+to (compound, names) ( (specifier) nSO = (raw_value) ) with confidence score 0.8744188664154208
+
+, (compound, names) ) with a (specifier) of (raw_value) were with confidence score 0.8265986323710904
+
+The (specifier) of (compound, names) is (raw_value) bigger with confidence score 0.9999999587418685
+
+, (specifier) of (compound, names) is (raw_value) ( with confidence score 0.9999999395964577
+
+the (compound, names) ( (specifier) = (raw_value) for with confidence score 1.0
+
+the (specifier) of (compound, names) and TPX are (raw_value) and with confidence score 0.8666666666666668
+
+with (compound, names) itself ( (specifier) = (raw_value) ) with confidence score 0.9736575981586477
+
+of (compound, names) ( (specifier) = (raw_value) at with confidence score 1.0
+
+the (compound, names) ( (specifier) = (raw_value) , with confidence score 1.0
+
+added (compound, names) ( ε = 2.28 , (specifier) = (raw_value) ) with confidence score 0.81795
+
+The (specifier) of (compound, names) , (compound, names) , and (compound, names) are (raw_value) , (raw_value) , and (raw_value) respectively with confidence score 0.860947570824873
+
+The (specifier) of (compound, names) , (compound, names) and (compound, names) are (raw_value) , (raw_value) and (raw_value) , with confidence score 0.9921166041666665
+
+average (specifier) of (compound, names) and (compound, names) are (raw_value) and (raw_value) , with confidence score 0.8415997572115426
+
+for (compound, names) particles ( (specifier) = (raw_value) ) with confidence score 0.9794426609813036
+
+– (compound, names) solutions ( from (specifier) = (raw_value) ) with confidence score 0.8309401076758502
+
+the (specifier) of the (compound, names) nanoparticles was considered to be nSi = (raw_value) . with confidence score 0.9974999999999999
+
+– (compound, names) mixture ( (specifier) = (raw_value) ) with confidence score 0.882842712474619
+
+fused (compound, names) ( (specifier) = (raw_value) ) with confidence score 0.9904582708333333
+
+from (compound, names) ( (specifier) ≈ (raw_value) ) with confidence score 0.9974999999999999
+
+the (compound, names) complex ( (specifier) = (raw_value) ) with confidence score 0.9989984684200658
+
+and (compound, names) , with (specifier) of (raw_value) , with confidence score 0.9555986323710904
+
+pure (compound, names) ( (specifier) ≈ (raw_value) ) with confidence score 0.9999979102653076
+
+the (specifier) of (compound, names) ( (raw_value) RIU with confidence score 0.0024875
+
+The (specifier) of (compound, names) , (compound, names) and (compound, names) decrease from (raw_value) , (raw_value) and (raw_value) , with confidence score 0.8369783237299423
+
+hemispheric (compound, names) prism using a droplet of refractive index matching liquid ( (specifier) = (raw_value) ) with confidence score 0.9974999999999999
+
+/ (compound, names) ( (specifier) ≈ (raw_value) ) with confidence score 0.9974999999999999
+
+as (compound, names) ( (specifier) = (raw_value) at with confidence score 1.0
+
+The (specifier) of (compound, names) and (compound, names) are about (raw_value) and (raw_value) , with confidence score 0.9416966926314962
+
+( (specifier) = (raw_value) ( (compound, names) ) with confidence score 0.9974999999999999
+
+- (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+, (compound, names) ( (specifier) <Blank> (raw_value) ) with confidence score 0.897903375
+
+and (compound, names) ( Hampton Research HR3 - 421 , (specifier) = (raw_value) ) with confidence score 0.9941791666666666
+
+in (compound, names) buffer ( (specifier) = (raw_value) ) with confidence score 0.882842712474619
+
+( (specifier) = (raw_value) + i0.003 for pure (compound, names) and (specifier) = (raw_value) + i0.00 for pure (compound, names) ) with confidence score 0.8061880215351701
+
+the (specifier) of (compound, names) ( about (raw_value) ) with confidence score 0.9974999999999999
+
+of (compound, names) spheres ( (specifier) = (raw_value) ) with confidence score 0.9981543921114528
+
+The (specifier) of (compound, names) is (raw_value) along with confidence score 0.9999999991173614
+
+, (compound, names) has a (specifier) of (raw_value) which with confidence score 0.8999999999999999
+
+The (specifier) of (compound, names) and (compound, names) at a wavelength of 600 nm are approximately (raw_value) and (raw_value) , with confidence score 0.8006593851332329
+
+high (specifier) of (compound, names) ( (raw_value) ) with confidence score 0.0038356763393177086
+
+rich (compound, names) ( (specifier) <Blank> (raw_value) ) with confidence score 0.9804089887472485
+
+the (compound, names) colloids ( (specifier) = (raw_value) ) with confidence score 0.9997988912316087
+
+→ (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+the (specifier) ( (specifier) ) values of bulk (compound, names) and (compound, names) are (raw_value) and (raw_value) , with confidence score 0.82
+
+containing (compound, names) ( (specifier) , (raw_value) ) with confidence score 0.9974999999999999
+
+to (compound, names) ( (specifier) = (raw_value) at with confidence score 1.0
+
+M (compound, names) solution ( (specifier) = (raw_value) ) with confidence score 0.9974999999999999
+
+at (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+based (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+the (specifier) of the (compound, names) at λ = 633 nm is above (raw_value) . with confidence score 0.9824067829151042
+
+the (specifier) of (compound, names) ( nITO ≈ (raw_value) ) with confidence score 0.8197273848112888
+
+the (specifier) of (compound, names) is higher ( (raw_value) ) than that of (compound, names) ( (raw_value) ) with confidence score 0.8765724465984117
+
+or (compound, names) ( (specifier) <Blank> (raw_value) ) with confidence score 0.9997647674278174
+
+The (specifier) of amorphous (compound, names) is (raw_value) , with confidence score 0.8468266383396117
+
+material (compound, names) ( (specifier) = (raw_value) ) with confidence score 0.9974999999999999
+
+<Blank> (compound, names) ( (specifier) <Blank> (raw_value) ) with confidence score 0.9999764269418551
+
+the (specifier) of (compound, names) ( (raw_value) < with confidence score 0.9991834993114007
+
+The (specifier) of (compound, names) NPs and air are (raw_value) and with confidence score 0.8464101615137756
+
+of (compound, names) , which has a (specifier) of (raw_value) . with confidence score 0.9974999999999999
+
+The (specifier) for PVK ( 1.64 ± 0.03 ) and for (compound, names) ( (raw_value) ) with confidence score 0.9887999374999998
+
+the (compound, names) coat ( (specifier) = (raw_value) ) with confidence score 0.9999597458905324
+
+The (specifier) of the (compound, names) could be determined as n488 = 1.610 (raw_value) . with confidence score 0.9865059794791666
+
+and (compound, names) ( (specifier) = (raw_value) at with confidence score 1.0
+
+the (compound, names) D line ( (specifier) = (raw_value) ) with confidence score 0.9974999999999999
+
+In (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+a (compound, names) coverslip ( (specifier) = (raw_value) , with confidence score 0.9974999999999999
+
+MicroChem (compound, names) , (specifier) = (raw_value) ) with confidence score 0.9784654296385383
+
+the (specifier) of (compound, names) KH560 ( (raw_value) ) with confidence score 0.9941731500651035
+
+index (compound, names) ( (specifier) ≈ (raw_value) ) with confidence score 0.9999997801161441
+
+fused (compound, names) substrate ( (specifier) = (raw_value) ) with confidence score 0.9877949906821535
+
+higher (specifier) <Blank> (compound, names) ( (raw_value) ) with confidence score 0.8309401076758502
+
+the (specifier) of (compound, names) ( ca. (raw_value) ) with confidence score 0.9988074682688897
+
+, (specifier) = (raw_value) ( (compound, names) ) with confidence score 0.9941791666666666
+
+The (specifier) of (compound, names) is n (raw_value) , with confidence score 0.8468266383396117
+
+the (specifier) of (compound, names) and (compound, names) are (raw_value) and (raw_value) , with confidence score 0.9941791666666666
+
+aqueous (compound, names) ( (specifier) <Blank> (raw_value) ) with confidence score 0.9999976421940654
+
+the (compound, names) fluid ( (specifier) = (raw_value) ) with confidence score 0.9999919478817918
+
+stoichiometric (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+, (compound, names) glass ( (specifier) = (raw_value) ) with confidence score 0.9984398273006885
+
+The (compound, names) ( ( (specifier) = (raw_value) , with confidence score 0.9974999999999999
+
+semi-infinite (compound, names) ( (specifier) = (raw_value) , with confidence score 0.9974999999999999
+
+The (specifier) of (compound, names) are (raw_value) ( with confidence score 0.9904582708333333
+
+the (specifier) of (compound, names) is (raw_value) which with confidence score 0.9999999997496446
+
+similar (specifier) of (compound, names) ( (raw_value) ) with confidence score 0.9954608910736464
+
+between (compound, names) ( (specifier) <Blank> (raw_value) ) with confidence score 0.0
+
+the (specifier) of (compound, names) and (compound, names) oil are (raw_value) and (raw_value) , with confidence score 0.9990510059791182
+
+The (specifier) of (compound, names) to be n = (raw_value) + with confidence score 0.9941791666666666
+
+the (specifier) of (compound, names) is (raw_value) and with confidence score 0.9879832083333334
+
+mM (compound, names) glass sheet ( (specifier) = (raw_value) , with confidence score 0.9925124999999999
+
+of (compound, names) water ( (specifier) = (raw_value) ) with confidence score 0.9995318072420303
+
+a (compound, names) film of (specifier) of (raw_value) , with confidence score 0.995
+
+the (specifier) of (compound, names) is (raw_value) . with confidence score 0.9941791666666666
+
+in (compound, names) ( (specifier) n = (raw_value) ) with confidence score 0.9941791666666666
+
+the (specifier) of fused (compound, names) ( (raw_value) ) with confidence score 0.9706202606184512
+
+the (specifier) of the air ( 1.0 ) and (compound, names) ( (raw_value) ) with confidence score 0.8117744710461146
+
+anatase (compound, names) has a much higher refractive index ( (specifier) = (raw_value) ) with confidence score 0.9579590088593233
+
+<Blank> (specifier) of (compound, names) and (compound, names) are (raw_value) and (raw_value) , with confidence score 0.9974999999999999
+
+the (compound, names) particles ( (specifier) = (raw_value) ) with confidence score 0.9999999646581152
+
+anatase (compound, names) spheres ( (specifier) = (raw_value) ) with confidence score 0.8983389529003075
+
+the (compound, names) ( (specifier) <Blank> (raw_value) ) with confidence score 0.00125
+
+M (compound, names) ( (specifier) : (raw_value) ) with confidence score 0.9936435211458332
+
+the (specifier) of (compound, names) ( n = ca. (raw_value) ) with confidence score 0.9999873784461704
+
+the (specifier) of (compound, names) is (raw_value) , with confidence score 0.9904582708333333
+
+The (specifier) of (compound, names) , (compound, names) , and (compound, names) is (raw_value) , (raw_value) , and (raw_value) , with confidence score 0.8666666666666666
+
+that (compound, names) has a (specifier) of (raw_value) , with confidence score 0.9974999999999999
+
+- (compound, names) prism ( (specifier) = (raw_value) ) with confidence score 0.882842712474619
+
+fused (compound, names) ( (specifier) : (raw_value) ) with confidence score 0.9485100000000001
+
+The (specifier) of the grown (compound, names) layers could be varied between (raw_value) . with confidence score 0.9974999999999999
+
+when (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+high (specifier) of (compound, names) ( (raw_value) at with confidence score 0.9974999999999999
+
+the (compound, names) phase ( (specifier) = (raw_value) ) with confidence score 0.9999998905654977
+
+the (specifier) of the roughened surface from 1.63 ( spiro - OMeTAD ) to (raw_value) ( (compound, names) ) with confidence score 0.8190890230020665
+
+( (compound, names) ) , with a (specifier) of (raw_value) , with confidence score 0.9634101615137755
+
+The (specifier) of (compound, names) ( (raw_value) ) with confidence score 0.9904582708333333
+
+, (compound, names) prism ( (specifier) = (raw_value) ) with confidence score 0.9941603388281998
+
+the (specifier) of (compound, names) crystal is (raw_value) , with confidence score 0.882842712474615
+
+the (specifier) of water ( 1.33 ) , and ηQS is the refractive index of 0.1 M (compound, names) ( (raw_value) ) with confidence score 0.9474661167788375
+
+the (specifier) of (compound, names) ( nPI = (raw_value) ) with confidence score 0.9999793669691771
+
+The (specifier) of (compound, names) is n = (raw_value) at with confidence score 0.9563033949979366
+
+higher (specifier) of (compound, names) ( (raw_value) ) with confidence score 0.004167059881994048
+
+in (specifier) from (raw_value) ( (compound, names) ) to (raw_value) ( (compound, names) ) with confidence score 0.815470053837925
+
+higher (specifier) of rutile (compound, names) ( (raw_value) ) with confidence score 1.0
+
+<Blank> (compound, names) has been widely used as antireflective coatings ( ARCs ) due to its matching refractive index ( (specifier) ) ( anatase (raw_value) , with confidence score 0.803948730483705
+
+and (compound, names) as low refractive index material ( (specifier) = (raw_value) ) with confidence score 0.9877497294791666
+
+thiolated (compound, names) chains ( (specifier) = (raw_value) ) with confidence score 0.9974999999999999
+
+the (compound, names) solution with a (specifier) of (raw_value) , with confidence score 0.8245321357901627
+
+thick (compound, names) with a (specifier) of (raw_value) . with confidence score 0.822465639209235
+
+liquid (compound, names) ( (specifier) = (raw_value) , with confidence score 1.0
+
+The (specifier) of (compound, names) is (raw_value) . with confidence score 0.9836443141651041
+
+the (specifier) of (compound, names) ( (raw_value) , with confidence score 0.999970459213656
+
+for (compound, names) ( i.e. , (specifier) = (raw_value) ) with confidence score 0.8288627574066606
+
+the (specifier) of (compound, names) material is (raw_value) , with confidence score 0.9655878784786784
+
+When (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+a (compound, names) prism ( (specifier) = (raw_value) ) with confidence score 0.9998884693617676
+
+the (specifier) of the (compound, names) solution ( n (raw_value) ) with confidence score 0.9974999999999999
+
+( (compound, names) , (specifier) = (raw_value) , with confidence score 0.9826180758302083
+
+from (compound, names) material of (specifier) of (raw_value) ( with confidence score 0.9974999999999999
+
+a (compound, names) substrate ( (specifier) <Blank> (raw_value) ) with confidence score 0.9807649914567707
+
+of (compound, names) ( (specifier) = (raw_value) ± with confidence score 1.0
+
+μm (compound, names) particles ( (specifier) = (raw_value) ) with confidence score 0.9979206769830867
+
+<Blank> (compound, names) AF is a fluoropolymer with a (specifier) ( n = (raw_value) ) with confidence score 0.8028370211348441
+
+following (specifier) value is used : 1.333 for water and (raw_value) for (compound, names) . with confidence score 0.8558408596267325
+
+the (compound, names) glass ( (specifier) ≈ (raw_value) ) with confidence score 0.8807592036731788
+
+in (compound, names) water ( (specifier) = (raw_value) ) with confidence score 0.9962313625614249
+
+the (specifier) of pure (compound, names) is (raw_value) , with confidence score 0.976568542494923
+
+The (specifier) of (compound, names) ( nstyrene = (raw_value) ) with confidence score 0.830858255947626
+
+<Blank> (specifier) of (raw_value) and (raw_value) were used for (compound, names) and (compound, names) , with confidence score 0.8154700538379251
+
+adsorbed (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+adsorbed (compound, names) ( (specifier) = (raw_value) at with confidence score 1.0
+
+the (specifier) of the (compound, names) prism ( (raw_value) ) with confidence score 0.9974999999999999
+
+in (compound, names) with a (specifier) of (raw_value) ( with confidence score 0.9998013278492441
+
+The (specifier) of (compound, names) rods is (raw_value) , with confidence score 0.9479892024990089
+
+dense (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+, (compound, names) with a (specifier) of (raw_value) , with confidence score 0.9998541795770663
+
+thick (compound, names) layer ( (specifier) = (raw_value) ) with confidence score 0.899914027759256
+
++ (compound, names) layer ( (specifier) = (raw_value) ) with confidence score 0.9974999999999999
+
+After (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+grade (compound, names) ( (specifier) = (raw_value) , with confidence score 1.0
+
+in (compound, names) ( (specifier) : (raw_value) ) with confidence score 0.995
+
+the (specifier) of the (compound, names) crystal ( (raw_value) ) with confidence score 0.8576967549365507
+
+/ (compound, names) layer ( (specifier) = (raw_value) ) with confidence score 0.9977718680925564
+
+relative (specifier) of (compound, names) ( (raw_value) ) with confidence score 0.0025
+
+the (compound, names) polymer is not significantly different from the PPy film ( (specifier) = (raw_value) ) with confidence score 0.9782090347148144
+
+a (compound, names) solution ( (specifier) = (raw_value) ) with confidence score 0.9999894476958574
+
+mesoporous (compound, names) ( (specifier) <Blank> (raw_value) ) with confidence score 0.9999999764214353
+
+The (compound, names) spheres ( (specifier) = (raw_value) ) with confidence score 0.9960158307145677
+
+the (specifier) of (compound, names) ( (raw_value) in with confidence score 0.9999994090223674
+
+the (specifier) of the (compound, names) particles ( (raw_value) ) with confidence score 0.8576967549365507
+
+Since (compound, names) crystals usually present (specifier) of (raw_value) , with confidence score 0.9904582708333333
+
+for (compound, names) and glass ( (specifier) ≈ (raw_value) ) with confidence score 0.9974999999999999
+
+the (specifier) of the (compound, names) substrate ( (raw_value) ) with confidence score 0.8576967549365507
+
+MIR (specifier) of (compound, names) is (raw_value) . with confidence score 0.9999999999999561
+
+The (specifier) of the (compound, names) was (raw_value) , with confidence score 0.0025
+
+the (specifier) of the (compound, names) membrane ( (raw_value) ) with confidence score 0.8538987393354649
+
+a (specifier) of (raw_value) for (compound, names) is with confidence score 0.9
+
+and (compound, names) with (specifier) of (raw_value) , with confidence score 0.9974999999999999
+
+the (specifier) of (compound, names) ( nPHEMA = (raw_value) ) with confidence score 0.9999971901813639
+
+fused (compound, names) , (specifier) = (raw_value) ) with confidence score 0.9994226764590433
+
+a (compound, names) lid ( (specifier) = (raw_value) ) with confidence score 0.999793589250913
+
+and (compound, names) ( ε = 35.6 , (specifier) = (raw_value) ) with confidence score 0.936303590891868
+
+terminated (compound, names) layer ( (specifier) = (raw_value) ) with confidence score 1.0
+
+index (compound, names) ( (specifier) = (raw_value) for with confidence score 1.0
+
+initial (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+onto (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+the (compound, names) cap layer ( (specifier) ≈ (raw_value) ) with confidence score 0.8289790890217352
+
+why (compound, names) ( (specifier) ≈ (raw_value) ) with confidence score 0.9999999976801394
+
+The (specifier) of (compound, names) and (compound, names) are considered as (raw_value) and (raw_value) , with confidence score 0.9994023592529007
+
+of (compound, names) crystals with a (specifier) of (raw_value) . with confidence score 0.9444853739910808
+
+The (specifier) of (compound, names) particles ( (raw_value) ) with confidence score 0.8827557480820006
+
+the (compound, names) group [ -S(CHzh \(OCHZCHz)nOH , (specifier) = (raw_value) ) with confidence score 0.995
+
+dispersive (compound, names) RI model ( (specifier) = (raw_value) ) with confidence score 0.9974999999999999
+
+or (compound, names) crystal ( (specifier) = (raw_value) ) with confidence score 0.8744188664154208
+
+( (specifier) of (raw_value) and (raw_value) for (compound, names) and (compound, names) , with confidence score 0.9329982817412857
+
+<Blank> (compound, names) microscope slides ( (specifier) = (raw_value) ) with confidence score 0.8230115022146864
+
+the (specifier) of (compound, names) ( (raw_value) for with confidence score 0.999999940948622
+
+of (compound, names) ( ε = 2.0 , (specifier) = (raw_value) ) with confidence score 0.9235307258242215
+
+, (compound, names) film with a (specifier) of (raw_value) is with confidence score 0.8264780974089218
+
+the (specifier) of the (compound, names) layer ( (raw_value) ) with confidence score 0.8538987393354649
+
+The (specifier) of the (compound, names) as well as that of the PEM film was fixed at (raw_value) . with confidence score 0.8170413004445612
+
+between (compound, names) ( (specifier) ≈ (raw_value) ) with confidence score 0.9999999997604146
+
+by (compound, names) ( (specifier) <Blank> (raw_value) , with confidence score 0.9999960380616224
+
+a (compound, names) <Blank> (specifier) of (raw_value) . with confidence score 0.9974999999999999
+
+high (specifier) ( (raw_value) ) of (compound, names) . with confidence score 0.8910224999999999
+
+, (specifier) of bulk (compound, names) ( (raw_value) ) with confidence score 0.8059499999999998
+
+the (specifier) of the effective medium from 1 ( air ) to (raw_value) ( (compound, names) bulk with confidence score 0.82
+
+the (compound, names) crystal ( refractive index (specifier) = (raw_value) ) with confidence score 0.9750725332353157
+
+or (compound, names) ( (specifier) = (raw_value) , with confidence score 1.0
+
+the (compound, names) , n is the refrac- tive index ( (specifier) = (raw_value) ) with confidence score 0.9974999999999999
+
+of (compound, names) films ( (specifier) = (raw_value) ) with confidence score 0.999870778081325
+
+the (specifier) of (compound, names) and (compound, names) SAMs were (raw_value) and (raw_value) , with confidence score 0.9589132923042665
+
+of (compound, names) ( (specifier) nTiO2 = (raw_value) ) with confidence score 0.9547840064187917
+
+on (compound, names) ( PI , (specifier) = (raw_value) ) with confidence score 0.9974999999999999
+
+a (compound, names) sphere ( (specifier) = (raw_value) ) with confidence score 0.9999586837658647
+
+in (compound, names) with a sample (specifier) of (raw_value) and with confidence score 0.9909686666666667
+
+in (compound, names) ( (specifier) = (raw_value) , with confidence score 1.0
+
+with (compound, names) ( DVG ) as cross-linking agent to obtain a transparent ( (specifier) = (raw_value) ) with confidence score 0.0025
+
+high (specifier) <Blank> (compound, names) ( = (raw_value) ) with confidence score 0.8245321357901627
+
+free (compound, names) with a sample (specifier) of (raw_value) and with confidence score 0.9655767684426646
+
+the (specifier) of the (compound, names) doped SU8 film was measured as (raw_value) . with confidence score 0.9974999999999999
+
+cubic (compound, names) prism ( Metricon , (specifier) = (raw_value) ) with confidence score 0.9904582708333333
+
+the (specifier) of (compound, names) can be found to be (raw_value) . with confidence score 0.9904582708333333
+
+The (specifier) of (compound, names) is n = (raw_value) , with confidence score 0.9990639511758022
+
+high (specifier) ( (raw_value) ) of anatase (compound, names) . with confidence score 0.9683244921372098
+
+to (compound, names) ( (specifier) = (raw_value) as with confidence score 1.0
+
+solid (compound, names) , (specifier) = (raw_value) , with confidence score 0.9996990638695565
+
+of (compound, names) ( (specifier) = (raw_value) anatase with confidence score 1.0
+
+the (specifier) of (compound, names) ( (raw_value) + with confidence score 0.999999993680816
+
+( (compound, names) , refractive index (specifier) = (raw_value) ) with confidence score 0.9974999999999999
+
+– (compound, names) , (specifier) = (raw_value) ) with confidence score 0.9974999999999999
+
+bulk (compound, names) ( (specifier) = (raw_value) ) with confidence score 0.9974999999999999
+
+the (specifier) contrast between (compound, names) ( (raw_value) ) with confidence score 0.8999999999999999
+
+of (compound, names) with (specifier) from (raw_value) . with confidence score 0.9904582708333333
+
+low (specifier) of (compound, names) ( nZnSe = (raw_value) ) with confidence score 0.8456681244544085
+
+A (specifier) of (raw_value) was used for calculating the (compound, names) film with confidence score 0.8252986375251946
+
+the (specifier) of (compound, names) ( n1 = (raw_value) ) with confidence score 0.9999996121982019
+
+of (compound, names) for the solid phase ( (specifier) = (raw_value) ) with confidence score 0.9856343141651042
+
+a (specifier) of (raw_value) for (compound, names) SAM with confidence score 0.981
+
+( (compound, names) , refractive index (specifier) = (raw_value) , with confidence score 0.9950215954250775
+
+the (specifier) of (compound, names) is about (raw_value) ) with confidence score 0.9775492346945589
+
+a (specifier) of (raw_value) for (compound, names) . with confidence score 0.9974999999999999
+
+on (compound, names) ( (specifier) : (raw_value) ) with confidence score 0.9996928174948622
+
+the (compound, names) brushes ( (specifier) ≈ (raw_value) ) with confidence score 0.9647771467277122
+
+The (specifier) of bulk (compound, names) ( (raw_value) ) with confidence score 0.9936384910478768
+
+the (specifier) of the (compound, names) pyramids ( (raw_value) ) with confidence score 0.8500706669950248
+
+a (compound, names) crystal ( (specifier) = (raw_value) ) with confidence score 0.9999982394472945
+
+the (compound, names) feed ratio ( (specifier) = (raw_value) , with confidence score 0.8309401076758502
+
+The (specifier) of (compound, names) was (raw_value) . with confidence score 0.995
+
+: (compound, names) , (specifier) = (raw_value) ) with confidence score 0.9999929133120689
+
+the (specifier) of (compound, names) is equal to (raw_value) compared with confidence score 0.821787139498497
+
+with (compound, names) ( (specifier) c = (raw_value) ) with confidence score 0.8709296147958183
+
+using (compound, names) resin with a (specifier) of (raw_value) . with confidence score 0.9417677075818015
+
+is (compound, names) ( (specifier) = (raw_value) ) with confidence score 0.9840432922916668
+
+fused (compound, names) prism ( (specifier) = (raw_value) ) with confidence score 0.9999458029821177
+
+<Blank> (compound, names) has a (specifier) of (raw_value) , with confidence score 0.9865059794791666
+
+index (specifier) of (compound, names) is (raw_value) and with confidence score 0.9999999999999084
+
+of (compound, names) bulk glass ( (specifier) = (raw_value) , with confidence score 0.8157837530129308
+
+the (specifier) of the air ( 1.000 ) and the (compound, names) ( (raw_value) ) with confidence score 1.0
+
+using (compound, names) with a (specifier) of (raw_value) ( with confidence score 0.999784392414922
+
+underlying (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+the (specifier) of (compound, names) after development ( n = (raw_value) ) with confidence score 0.9999793058573322
+
+by (compound, names) spheres ( (specifier) = (raw_value) ) with confidence score 0.9979834364564293
+
+thin (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+as (compound, names) ( (specifier) <Blank> (raw_value) – with confidence score 0.9999992075997669
+
+filling (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+into (compound, names) with a (specifier) of (raw_value) . with confidence score 0.9997514677969116
+
+the (specifier) of the (compound, names) substrates ( ns = (raw_value) ) with confidence score 0.8102566680734957
+
+of (compound, names) ( refractive index (specifier) = (raw_value) ) with confidence score 0.9997738343429936
+
+of (compound, names) with an (specifier) of (raw_value) or with confidence score 0.9974999999999999
+
+a (compound, names) gradient separation ( (specifier) = (raw_value) at with confidence score 0.986324875
+
+amorphous (compound, names) layers ( (specifier) ≈ (raw_value) ) with confidence score 0.9974999999999999
+
+% (compound, names) ( (specifier) = (raw_value) or with confidence score 1.0
+
+% (compound, names) ( dispersant (specifier) = (raw_value) ) with confidence score 0.8777038321857562
+
+For (compound, names) , (specifier) = (raw_value) ) with confidence score 0.999999271199223
+
+the (specifier) of (compound, names) ( n 1 = (raw_value) ) with confidence score 0.9999999921001677
+
+the (specifier) for (compound, names) , (compound, names) , and C4+ , by using an ion density of 1020 cm−3 and plasma temperatures of 6 , 10 , and 30 eV to achieve Z* = (raw_value) , (raw_value) , with confidence score 0.8309089653438086
+
+the (specifier) of (compound, names) is (raw_value) ) with confidence score 0.9999999999999999
+
+The (specifier) n of the (compound, names) film was (raw_value) , with confidence score 0.8269495279616194
+
+The (specifier) of (compound, names) and (compound, names) LB films are found to be (raw_value) and (raw_value) , with confidence score 0.9901176113287079
+
+of (specifier) = (raw_value) for (compound, names) and (specifier) = (raw_value) for (compound, names) ) with confidence score 0.8323760430703402
+
+Section (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+fused (compound, names) ( (specifier) FS = (raw_value) ) with confidence score 0.8806356056934324
+
+( (compound, names) ) , with (specifier) of (raw_value) and with confidence score 0.8154401504108872
+
+of (compound, names) with a (specifier) of (raw_value) . with confidence score 0.9999971598041424
+
+( (compound, names) ) with a (specifier) of (raw_value) . with confidence score 0.9974999999999999
+
+nanoporous (compound, names) with a very low refractive index ( (specifier) <Blank> (raw_value) ) with confidence score 1.0
+
+<Blank> (specifier) of (compound, names) ( (raw_value) ) with confidence score 0.9999999802663564
+
+of (compound, names) target with a (specifier) of (raw_value) as with confidence score 0.9699315586096842
+
+A (specifier) of (raw_value) was used for the (compound, names) slab with confidence score 0.9608401911613217
+
+the (specifier) of (compound, names) ( about (raw_value) at with confidence score 0.8779866897934361
+
+and (compound, names) with the respective (specifier) of (raw_value) , with confidence score 0.8281781736541616
+
+and (compound, names) with the (specifier) of (raw_value) , with confidence score 0.9934207917362594
+
+a (compound, names) <Blank> (specifier) of (raw_value) , with confidence score 0.962
+
++ (compound, names) , (specifier) = (raw_value) ) with confidence score 0.9999999271194443
+
+of (compound, names) beads ( (specifier) = (raw_value) ) with confidence score 0.9999702809666069
+
+static (specifier) of (compound, names) is (raw_value) and with confidence score 0.9999999999999981
+
+of (compound, names) with (specifier) = (raw_value) . with confidence score 0.9974999999999999
+
+dispersedsilica.The (specifier) of (compound, names) is (raw_value) ( with confidence score 0.9999999999999986
+
+coated (compound, names) substrate ( (specifier) = (raw_value) ) with confidence score 0.9879484634527499
+
+use (compound, names) ( (specifier) = (raw_value) ) with confidence score 0.9974999999999999
+
+used (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+high (specifier) of individual (compound, names) ( (raw_value) ) with confidence score 0.9518449101899753
+
+the (specifier) of (compound, names) monomer ( (raw_value) ) with confidence score 0.9985209225679119
+
+the (specifier) of the (compound, names) is (raw_value) , with confidence score 0.9946496608939626
+
+of (compound, names) glass ( (specifier) = (raw_value) ) with confidence score 0.9999999977721745
+
+lower (specifier) than (compound, names) ( (raw_value) and with confidence score 0.995
+
+, (compound, names) films with a (specifier) of (raw_value) would with confidence score 0.8264780974089218
+
+: (compound, names) ( (specifier) = (raw_value) ) with confidence score 0.9941791666666666
+
+, (compound, names) has a (specifier) of (raw_value) , with confidence score 0.9999922694752978
+
+, (compound, names) with (specifier) of (raw_value) , with confidence score 0.9997350408074962
+
+on (compound, names) ( (specifier) = (raw_value) , with confidence score 0.9974999999999999
+
+The (specifier) of (compound, names) is (raw_value) measured with confidence score 1.0
+
+adding (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+or (compound, names) ( (specifier) = (raw_value) and with confidence score 1.0
+
+was (compound, names) ( refractive index , (specifier) = (raw_value) ) with confidence score 0.9994567799948593
+
+the (compound, names) material ( (specifier) = (raw_value) ) with confidence score 0.9999999172808781
+
+The (specifier) of the (compound, names) is (raw_value) . with confidence score 0.9779689000735156
+
+( (compound, names) ) with a (specifier) of (raw_value) on with confidence score 0.9937421223830409
+
+Schott (compound, names) glass with a (specifier) of (raw_value) and with confidence score 0.9865398614400339
+
+a (compound, names) layer with an (specifier) of (raw_value) ( with confidence score 0.995
+
+the (compound, names) solution ( (specifier) = (raw_value) ) with confidence score 0.9974999999999999
+
+cylindrical (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+porous (compound, names) ( (specifier) = (raw_value) ) with confidence score 0.9974999999999999
+
+% (compound, names) ( (specifier) <Blank> (raw_value) ) with confidence score 0.9999999907897723
+
+a (compound, names) substrate ( (specifier) = (raw_value) ) with confidence score 0.9999999977305444
+
+( (compound, names) ) with a refractive index (specifier) = (raw_value) , with confidence score 0.8025437342256098
+
+in (compound, names) ( (specifier) <Blank> (raw_value) ) with confidence score 0.0
+
+thermal (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+high (specifier) ( (raw_value) ) of (compound, names) dispersing with confidence score 0.9956917262264177
+
+, (compound, names) ( (specifier) = (raw_value) at with confidence score 0.9974999999999999
+
+the (specifier) of (compound, names) : PSS and P3HT : (compound, names) were (raw_value) and (raw_value) , with confidence score 0.8068501229246395
+
+<Blank> (compound, names) crystal ( (specifier) <Blank> (raw_value) ) with confidence score 0.9871010282897484
+
+is (compound, names) , relative refractive index (specifier) = (raw_value) , with confidence score 0.8421963892934345
+
+amorphous (compound, names) , the observed refractive index value ( (specifier) = (raw_value) ) with confidence score 0.9602441362245708
+
+( (compound, names) <Blank> (specifier) = (raw_value) ) with confidence score 0.8955
+
+The (specifier) of (compound, names) is (raw_value) The with confidence score 1.0
+
+with (compound, names) with (specifier) of (raw_value) and with confidence score 0.999141378221285
+
+The (compound, names) has larger refractive index ( (specifier) = (raw_value) ) with confidence score 0.978215949483639
+
+grade (compound, names) with a (specifier) of (raw_value) and with confidence score 0.9998305057310032
+
+a (specifier) of (raw_value) for the (compound, names) . with confidence score 0.9866139255417365
+
+The (specifier) of (compound, names) NCQD and (compound, names) are (raw_value) and (raw_value) , with confidence score 0.9999880398468876
+
+The (specifier) of the (compound, names) layer was (raw_value) , with confidence score 0.9904582708333333
+
+The (specifier) of the (compound, names) layer , (compound, names) substrate , and polymer resin at 1 (compound, names) are (raw_value) , (raw_value) , and (raw_value) , with confidence score 0.9705131172677823
+
+<Blank> (compound, names) has a high (specifier) of (raw_value) at with confidence score 0.8249416112735157
+
+M (compound, names) ten times with a sample (specifier) of (raw_value) and with confidence score 0.9579489030823558
+
+the (specifier) of the cell (compound, names) ( (raw_value) ) with confidence score 0.9999991610783887
+
+) (compound, names) layer with a (specifier) of (raw_value) , with confidence score 0.969552482358716
+
+a (specifier) of (raw_value) for the (compound, names) ( with confidence score 0.98702110542889
+
+of (compound, names) , (specifier) = (raw_value) , with confidence score 0.9999998050926482
+
+grating (compound, names) cladding with a (specifier) of (raw_value) . with confidence score 0.9903621527166785
+
+by (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+The (specifier) of (compound, names) was assumed as (raw_value) . with confidence score 0.826785407137471
+
+analyte (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+analysts (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+over (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+index (compound, names) ( (specifier) = (raw_value) at with confidence score 1.0
+
+( (specifier) of (compound, names) is (raw_value) at with confidence score 1.0
+
+the (compound, names) solution ( (specifier) = (raw_value) ). with confidence score 0.8977499999999998
+
+on (compound, names) ( (specifier) = (raw_value) @ with confidence score 1.0
+
+A (specifier) of (raw_value) was used for the (compound, names) dispersed with confidence score 0.9907655161169767
+
+bulk (compound, names) , (specifier) = (raw_value) , with confidence score 0.9999999805092307
+
+<Blank> (compound, names) rich SiNx ( (specifier) = (raw_value) ) with confidence score 0.8197273848112888
+
+the (compound, names) rich SiNx ( (specifier) = (raw_value) ) with confidence score 0.0025
+
+Hence (compound, names) rich SiNx layer ( (specifier) = (raw_value) ) with confidence score 0.9387816248246417
+
+with (compound, names) rich SiNx ( (specifier) = (raw_value) ) with confidence score 0.9984948365661751
+
+The (compound, names) rich SiNx with refractive index ( (specifier) = (raw_value) ) with confidence score 0.9590792641065489
+
+: (compound, names) ( (specifier) <Blank> (raw_value) ) with confidence score 0.0
+
+a (compound, names) substrate has the (specifier) of (raw_value) and with confidence score 0.005383395833333334
+
+the (specifier) value of the InP - TAA film , of about 1.6 , was significantly lower than that reported for bulk (compound, names) ( (raw_value) ) with confidence score 0.8035128189430039
+
+the (specifier) were even lower than that of fused (compound, names) ( (raw_value) ) with confidence score 0.9619574712776262
+
+the (compound, names) substrate ( (specifier) = (raw_value) ) with confidence score 0.9904582708333333
+
+the (specifier) of (compound, names) is c.a. (raw_value) at with confidence score 0.8786718222832093
+
+of (compound, names) with a (specifier) of (raw_value) immersed with confidence score 0.9999048732295398
+
+constant (specifier) of (raw_value) for the (compound, names) . with confidence score 0.8879525329875628
+
+with (compound, names) ( (specifier) <Blank> (raw_value) ) with confidence score 0.9974999999999999
+
+by (compound, names) with high refractive index ( (specifier) = (raw_value) ) with confidence score 0.8096555100022447
+
+of (compound, names) with a (specifier) of (raw_value) and with confidence score 0.9999999999715417
+
+the (specifier) of (compound, names) is n0 = (raw_value) , with confidence score 0.8230115022146864
+
+the (specifier) of (compound, names) and (compound, names) are (raw_value) and (raw_value) at with confidence score 0.9988975858876658
+
+to (compound, names) microlens film ( (specifier) = (raw_value) ) with confidence score 0.9943188756865444
+
+( (compound, names) ) with a (specifier) of (raw_value) , with confidence score 0.9974999999999999
+
+M (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+constant (compound, names) <Blank> (specifier) n = (raw_value) + with confidence score 0.8999999999999999
+
+The (specifier) of (compound, names) was set to n = (raw_value) . with confidence score 0.9704522872808984
+
+static (specifier) of (compound, names) is (raw_value) . with confidence score 1.0
+
+<Blank> (specifier) of (compound, names) and air are taken as (raw_value) and with confidence score 0.8098386676965934
+
+a (compound, names) ( refractive index (specifier) = (raw_value) ) with confidence score 0.999994544524588
+
+The (specifier) of (compound, names) was (raw_value) , with confidence score 0.895730642658634
+
+, (compound, names) ( (specifier) <Blank> (raw_value) , with confidence score 0.9999999894222728
+
+, (compound, names) ( (specifier) <Blank> (raw_value) – with confidence score 0.9999999989422439
+
+<Blank> (compound, names) has a (specifier) of (raw_value) in with confidence score 0.9676156484687475
+
+amorphous (compound, names) ( (specifier) = (raw_value) + with confidence score 1.0
+
+The (specifier) of the nanoporous (compound, names) film decreased from (raw_value) , with confidence score 0.9974999999999999
+
+static (specifier) of (compound, names) is (raw_value) , with confidence score 1.0
+
+The (specifier) of (compound, names) , (compound, names) , AlN , GaN and (compound, names) are (raw_value) + i0.0196 , 5.4717 + i (raw_value) , (raw_value) , with confidence score 0.9651041480024817
+
+the (specifier) of the (compound, names) wafer ( (raw_value) ) with confidence score 0.9700359995365002
+
+low (specifier) polymer ( (compound, names) , nPMMA ≈ (raw_value) ) with confidence score 0.0025
+
+that (specifier) of (compound, names) , (compound, names) , and (compound, names) are (raw_value) , (raw_value) , and (raw_value) , with confidence score 0.9938271690980075
+
+of (compound, names) glass ( (specifier) = (raw_value) @ with confidence score 0.9674325728021135
+
+in (compound, names) with the (specifier) n2 = (raw_value) and with confidence score 0.9974999999999999
+
+high (specifier) of the (compound, names) ( about (raw_value) ) with confidence score 0.8416444436547119
+
+dense (compound, names) ( i.e. (specifier) = (raw_value) ) with confidence score 0.9631114840882451
+
+the (specifier) of porous (compound, names) ( (raw_value) ) with confidence score 0.9909235721373238
+
+a (specifier) of (raw_value) for the (compound, names) films with confidence score 0.9985505040090298
+
+A (specifier) of (raw_value) was used for the (compound, names) . with confidence score 0.9989998034883705
+
+patterned (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+from (compound, names) films ( high refractive index (specifier) = (raw_value) ) with confidence score 0.9975082863804292
+
+or (compound, names) ( (specifier) ≈ (raw_value) ) with confidence score 0.9974999999999999
+
+<Blank> (compound, names) has a high (specifier) of (raw_value) close with confidence score 0.99097497808322
+
+/ (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+<Blank> (compound, names) , purchased from Fluka , has a (specifier) of (raw_value) , with confidence score 0.8292743835440667
+
+the (specifier) mismatch of (compound, names) ( (raw_value) ) with confidence score 0.9981188091932677
+
+index (compound, names) substrate ( (specifier) = (raw_value) ) with confidence score 0.999998434931808
+
+of (compound, names) was prompted by its refractive index ( (specifier) = (raw_value) ) with confidence score 0.9755967308734933
+
+<Blank> (compound, names) ( (specifier) 2 = (raw_value) ) with confidence score 0.0
+
+Since (compound, names) has a low refractive index ( (specifier) = (raw_value) ) with confidence score 0.99872857315576
+
+of (specifier) between (compound, names) ( (raw_value) ) with confidence score 0.0025
+
+are (specifier) of (compound, names) ( (raw_value) ) with confidence score 0.9999999999583769
+
+reported (specifier) of (compound, names) ( (raw_value) ) with confidence score 0.9999999999958377
+
+the (compound, names) layer ( (specifier) ≈ (raw_value) ) with confidence score 0.9981345154077267
+
+bulk (compound, names) with (specifier) of (raw_value) and with confidence score 0.9998264611660933
+
+of (compound, names) ( (specifier) : (raw_value) ) with confidence score 0.9974999999999999
+
+the (compound, names) <Blank> (specifier) = (raw_value) , with confidence score 0.9930942445860301
+
+of (compound, names) ( (specifier) nSi = (raw_value) ) with confidence score 0.9854835717063881
+
+of (compound, names) ( refractive index (specifier) = (raw_value) at with confidence score 0.9994685570671452
+
+with (compound, names) PLD waveguides ( (specifier) = (raw_value) at with confidence score 0.8288627574066606
+
+a (compound, names) core ( (specifier) = (raw_value) ) with confidence score 0.9999996602278689
+
+of (compound, names) , silicon nitride or alumina powders.12'13 For a high refractive index difference ( silicon nitride : (specifier) = (raw_value) ) with confidence score 0.8106712962475876
+
+undiluted (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+diluted (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+with (compound, names) ( (specifier) = (raw_value) , with confidence score 0.9974999999999999
+
+The (specifier) of pure (compound, names) is (raw_value) . with confidence score 0.9966666666666667
+
+of (compound, names) crystals and has a (specifier) of (raw_value) . with confidence score 0.9565317772292077
+
+, (compound, names) , has a (specifier) of (raw_value) , with confidence score 0.9999002232079729
+
+( (compound, names) ) , which has a (specifier) of (raw_value) . with confidence score 0.9720589105743549
+
+cladding (compound, names) ( (specifier) <Blank> (raw_value) ) with confidence score 0.9999999999963908
+
+thin (compound, names) guiding layer ( (specifier) = (raw_value) ) with confidence score 0.9999594870703207
+
+the (specifier) of (compound, names) ( i.e. (raw_value) ) with confidence score 0.9997127904143487
+
+the (specifier) of (compound, names) ( CdSc2S4 ) is about 2.56 ( (raw_value) ) with confidence score 0.9678749496316245
+
+bulk (compound, names) ( (specifier) = (raw_value) , with confidence score 1.0
+
+the (specifier) of (compound, names) and (compound, names) ( lower cladding ) are (raw_value) and (raw_value) , with confidence score 0.9962922470179479
+
+of (compound, names) , (specifier) = (raw_value) ) with confidence score 0.9999999999658318
+
+thick (compound, names) layer ( (specifier) = (raw_value) – with confidence score 0.9974999999999999
+
+- (compound, names) ( refractive index , (specifier) = (raw_value) ) with confidence score 0.9999996139094475
+
+The (specifier) of the monomer (compound, names) is (raw_value) . with confidence score 0.9828645797145875
+
+For (compound, names) , (specifier) = (raw_value) and with confidence score 0.9974999999999999
+
+For (compound, names) , (specifier) = (raw_value) , with confidence score 0.9904582708333333
+
+For (compound, names) <Blank> (specifier) = (raw_value) , with confidence score 0.9974999999999999
+
+T (specifier) Ã (compound, names) ( (raw_value) ) with confidence score 0.9941791666666666
+
+of (compound, names) ( a (specifier) of (raw_value) ) with confidence score 0.8265986323710904
+
+of (compound, names) ( 6 mm thick , refractive index (specifier) = (raw_value) ) with confidence score 0.9994525213504322
+
+of (compound, names) <Blank> (specifier) = (raw_value) , with confidence score 0.9993716721648775
+
+mL (compound, names) ( (specifier) : (raw_value) ) with confidence score 0.9999969188284983
+
+The (specifier) of (compound, names) is (raw_value) at with confidence score 0.9974999999999999
+
+, (compound, names) , (specifier) = (raw_value) ) with confidence score 0.9999999999985546
+
+adequate (specifier) ( (raw_value) ) of (compound, names) . with confidence score 0.9604663919287717
+
+here (compound, names) , (specifier) = (raw_value) ) with confidence score 0.9999999999998554
+
+porous (compound, names) layer ( (specifier) = (raw_value) ) with confidence score 0.9999995803462988
+
+Conventional (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+μm (compound, names) substrate layer ( (specifier) = (raw_value) ) with confidence score 0.9999999986627667
+
+/ (compound, names) ( (specifier) = (raw_value) , with confidence score 1.0
+
+undoped (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+and (compound, names) ( (specifier) , (raw_value) ) with confidence score 0.8977499999999999
+
+the (specifier) from (raw_value) for (compound, names) to with confidence score 0.9974999999999999
+
+and (compound, names) <Blank> (specifier) of (raw_value) . with confidence score 0.9956224
+
+using (compound, names) ( (specifier) <Blank> (raw_value) ) with confidence score 0.9999999999996391
+
+index (compound, names) pillars ( (specifier) = (raw_value) ) with confidence score 0.9765683958076085
+
+of (compound, names) ( Histodenz ) ( (specifier) = (raw_value) , with confidence score 0.8122983628962059
+
+of (compound, names) ( (specifier) s = (raw_value) ) with confidence score 0.996740047023851
+
+a (compound, names) crystal ( (specifier) <Blank> (raw_value) ) with confidence score 0.9763260132797456
+
+to (compound, names) ( IPA ) ( (specifier) = (raw_value) ) with confidence score 0.8163211979769623
+
+as (compound, names) ( refractive index of 1.463 ) ; Bis-GMA ( refractive index of 1.551 ) ; TEGDMA ( refractive index of (raw_value) ) and (compound, names) ( (specifier) of (raw_value) ) with confidence score 0.9264911064067352
+
+monomer (compound, names) , with a (specifier) of (raw_value) . with confidence score 0.999460280552134
+
+in (compound, names) Neu ( (specifier) = (raw_value) ) with confidence score 0.989700629171404
+
+for (compound, names) ( (specifier) <Blank> (raw_value) ) with confidence score 0.9999999999999639
+
+a (specifier) of (compound, names) ( (raw_value) ) with confidence score 0.9999999999763333
+
+of (compound, names) oil HIVAC-F4 ( (specifier) = (raw_value) , with confidence score 0.8122983628962059
+
+of (compound, names) oil ( (specifier) = (raw_value) ) with confidence score 0.999999502903561
+
+The (specifier) of confining layer (compound, names) is (raw_value) . with confidence score 0.8173495123270895
+
+lower (specifier) of (compound, names) ( (raw_value) ) with confidence score 0.9999999999976333
+
+a (compound, names) ( (specifier) = (raw_value) at with confidence score 1.0
+
+nanoporous (compound, names) ( (specifier) <Blank> (raw_value) ) with confidence score 0.9999999999999963
+
+a (compound, names) waveguiding film ( (specifier) = (raw_value) , with confidence score 0.8231661133708458
+
+the (specifier) of (compound, names) ( nD25 = (raw_value) ) with confidence score 0.9999999979159685
+
+The (specifier) of TMX – (compound, names) was (raw_value) . with confidence score 0.826785407137471
+
+, (compound, names) AF ( (specifier) = (raw_value) ) with confidence score 0.9984543505777375
+
+the (compound, names) , C , can be written in a polynomial form as (specifier) = (raw_value) + with confidence score 0.9974999999999999
+
+, (compound, names) has a (specifier) of (raw_value) ; with confidence score 0.9967159021505555
+
+the (specifier) values of the aqueous film ( 1.33 ) , the (compound, names) ( (raw_value) ) with confidence score 0.9841325779607395
+
+with (compound, names) refractive index , (specifier) = (raw_value) , with confidence score 0.9939395425600386
+
+and (compound, names) , with similar (specifier) of (raw_value) , with confidence score 0.9803973217178197
+
+a (compound, names) crystal ( (specifier) , n1 = (raw_value) ) with confidence score 0.8309386447619955
+
+with (compound, names) ( refractive index (specifier) = (raw_value) ) with confidence score 0.9974999999999999
+
+The (specifier) of (compound, names) is n = (raw_value) . with confidence score 0.9998327189680887
+
+The (specifier) of (compound, names) , (compound, names) and (compound, names) are quoted as (raw_value) , (raw_value) and (raw_value) , with confidence score 0.9957244096971261
+
+of (compound, names) ( (specifier) η = (raw_value) at with confidence score 0.882842712474619
+
+a (specifier) of (raw_value) for (compound, names) , with confidence score 0.9997678460752748
+
+a (specifier) of (raw_value) for the (compound, names) and with confidence score 0.9998483701976231
+
+the (specifier) of (compound, names) is of (raw_value) . with confidence score 0.9995815225078368
+
+on (compound, names) with a (specifier) of (raw_value) . with confidence score 0.999999968059986
+
+the (specifier) of (raw_value) for (compound, names) . with confidence score 0.9997510793939904
+
+and (compound, names) ( (specifier) = (raw_value) and with confidence score 1.0
+
+The (specifier) of (compound, names) was set to (raw_value) while with confidence score 0.9421742526772076
+
+the (specifier) of (compound, names) which is equal to (raw_value) . with confidence score 0.9867439013787928
+
+<Blank> (compound, names) has a (specifier) of about (raw_value) , with confidence score 0.8777038321857561
+
+the (specifier) of solid (compound, names) ( (raw_value) , with confidence score 0.8828166326066744
+
+a (compound, names) glass plate ( (specifier) = (raw_value) , with confidence score 0.8245321357901627
+
+the (specifier) of (compound, names) ( typically (raw_value) for with confidence score 0.8828426603415402
+
+a (compound, names) crystal with a (specifier) of (raw_value) and with confidence score 0.9996568731890487
+
+or (compound, names) <Blank> (specifier) = (raw_value) ) with confidence score 0.9998312027871703
+
+so (compound, names) ( (specifier) <Blank> (raw_value) ) with confidence score 0.9999999999999997
+
+the (specifier) of pure (compound, names) is equal to (raw_value) . with confidence score 0.8182602161088849
+
+the (specifier) of the (compound, names) layer is (raw_value) ( with confidence score 0.9974999999999999
+
+theoretical (specifier) of (compound, names) ( (raw_value) ) with confidence score 0.9999999999997471
+
+<Blank> (specifier) of (raw_value) and (raw_value) for (compound, names) and (compound, names) , with confidence score 0.9959369715817341
+
+of (compound, names) in alumina and the high refractive index of the matrix ( (specifier) = (raw_value) ) with confidence score 0.8189037731950326
+
+the (specifier) of (compound, names) is known ( about (raw_value) ) with confidence score 0.9998366108719304
+
+- (compound, names) substrate ( (specifier) = (raw_value) ) with confidence score 0.999999991849254
+
+a (compound, names) substrate ( refractive index (specifier) = (raw_value) ) with confidence score 0.999999724366685
+
+amorphous (compound, names) ( refractive index (specifier) = (raw_value) ) with confidence score 0.9999999996977547
+
+of (compound, names) and a (specifier) of (raw_value) . with confidence score 0.9688930683603416
+
+( (compound, names) <Blank> (specifier) = (raw_value) , with confidence score 0.9999913470171404
+
+for (compound, names) x ( (specifier) = (raw_value) ) with confidence score 0.9889427722901039
+
+of (compound, names) x ( (specifier) = (raw_value) ) with confidence score 0.9999999671020916
+
+of (compound, names) x layer ( (specifier) = (raw_value) ) with confidence score 0.9999999482380939
+
+a (compound, names) x layer ( (specifier) = (raw_value) ) with confidence score 0.9999999772077821
+
+with (compound, names) x ( (specifier) = (raw_value) ) with confidence score 0.9999980016757879
+
+since (compound, names) has a lower refractive index ( (specifier) = (raw_value) ) with confidence score 0.9999137920009694
+
+( (compound, names) ) (specifier) of (raw_value) . with confidence score 0.8308449044980797
+
+al. (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+The (specifier) of bulk (compound, names) is (raw_value) . with confidence score 0.9942722530678388
+
+with (compound, names) thin film of a high refractive index ( (specifier) = (raw_value) ) with confidence score 0.842836601842622
+
+of (compound, names) tube with a (specifier) of (raw_value) and with confidence score 0.9999789542986887
+
+% (compound, names) ( (specifier) = (raw_value) at with confidence score 1.0
+
+of (compound, names) ® ( (specifier) ≈ (raw_value) ) with confidence score 0.8673106689822347
+
+the (specifier) of (compound, names) is (raw_value) ( with confidence score 0.9974999999999999
+
+The (specifier) of (compound, names) ( n1 = (raw_value) ) with confidence score 0.995045670327881
+
+the (specifier) of (compound, names) ( n3 = (raw_value) ) with confidence score 0.9999999997179977
+
+of (compound, names) ( with a (specifier) of (raw_value) ) with confidence score 0.9997882772247566
+
+immunoagglutinated (compound, names) particles ( (specifier) = (raw_value) ) with confidence score 0.9987928072844962
+
+index (compound, names) beads ( (specifier) = (raw_value) ) with confidence score 0.9994776490892185
+
+with (compound, names) with a (specifier) of (raw_value) . with confidence score 0.999999987526412
+
+a (compound, names) glass plate ( (specifier) = (raw_value) ) with confidence score 0.9999804318196693
+
+of (compound, names) , with a (specifier) of (raw_value) . with confidence score 0.9999999998881888
+
+the (specifier) of crystal (compound, names) is (raw_value) , with confidence score 0.9988776733254078
+
+amorphous (compound, names) ( (specifier) = (raw_value) at with confidence score 1.0
+
+using (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+The (specifier) of the (compound, names) film was typically taken to be (raw_value) and with confidence score 0.9698713529928371
+
+thick (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+and (specifier) = (raw_value) ( (compound, names) ) with confidence score 0.9998867561362216
+
+A (specifier) of (raw_value) was used for the (compound, names) layers with confidence score 0.9998990799950813
+
+bulk (compound, names) solution ( (specifier) = (raw_value) ) with confidence score 0.9999875191927736
+
+a (specifier) of (raw_value) for the adsorbed (compound, names) layer with confidence score 0.9998030194549421
+
+a (compound, names) layer ( (specifier) = (raw_value) , with confidence score 0.964972919933277
+
+the (compound, names) refractive index ( (specifier) = (raw_value) ) with confidence score 0.9999999999969489
+
+the (specifier) of (compound, names) ( ns ) and air ( nair ) are (raw_value) and with confidence score 0.8618614682831909
+
+than (compound, names) ( (specifier) = (raw_value) ) with confidence score 0.9916916666666667
+
+4 (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+the (compound, names) ( i.e. (specifier) = (raw_value) ) with confidence score 0.9999999999698832
+
+bulk (compound, names) polymer ( (specifier) = (raw_value) ) with confidence score 0.9761259293274904
+
+into (compound, names) ( (specifier) <Blank> (raw_value) ) with confidence score 1.0
+
+the (compound, names) passivation layer ( (specifier) = (raw_value) ) with confidence score 0.9999961896053227
+
+( (compound, names) ) , with a high (specifier) of (raw_value) and with confidence score 0.9996801522502312
+
+the (specifier) of (compound, names) at 25.0 ° C ( (raw_value) ) with confidence score 0.9075855011208332
+
+and (compound, names) oil ( (specifier) = (raw_value) ) with confidence score 0.9750171255703096
+
+of (compound, names) is high ( (specifier) = (raw_value) for with confidence score 0.826103343799087
+
+a (specifier) of (raw_value) , which is the average value for (compound, names) and with confidence score 0.8136855958330779
+
+in (specifier) between the (compound, names) films ( n (raw_value) ) with confidence score 0.9677673444603228
+
+, (compound, names) doped silica rod and air with a (specifier) of (raw_value) , with confidence score 0.8136903235583156
+
+is (compound, names) with a (specifier) of (raw_value) . with confidence score 0.9999999997812481
+
+contain (compound, names) glass filler that has a lower refractive index ( (specifier) = (raw_value) ) with confidence score 0.9939132961709606
+
+and (compound, names) has a (specifier) of (raw_value) , with confidence score 0.9999655028257987
+
+The (specifier) of the (compound, names) film was approximately (raw_value) and with confidence score 0.9265986323710903
+
+crystalline (compound, names) ( (specifier) = (raw_value) ) with confidence score 1.0
+
+in (compound, names) fiber ( (specifier) = (raw_value) ) with confidence score 0.9978071248390573
+
+High (specifier) of (compound, names) ( (raw_value) in with confidence score 0.9999999999931634
+
+The (specifier) of the (compound, names) matrix is (raw_value) . with confidence score 0.9720735406704422
+
+<Blank> (compound, names) has a (specifier) of (raw_value) . with confidence score 0.9974999999999999
+
