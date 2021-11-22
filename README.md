@@ -21,17 +21,57 @@ Then, activate this visual environment:
     conda activate chemdataextractor
     
     
-### Download the bespoke version of chemdataextractor from this Github repository
+### Download the bespoke version of ChemDataExtractor from this repository
 
-Simply click the green **Code** button on the repository website and click **Download Zip** to download the repository files to your local computer. Then unzip the zipped file to a desired directory. In this example, we unzip the zipped file to D: and the directory of the unziped folder then becomes D:/opticalmaterials_database/
+Simply click the green **Code** button on the repository website and click **Download Zip** to download the repository files to your local computer. Then unzip the zipped file to a desired directory. In this example, we unzip the zipped file to D: and the directory of the unziped folder then becomes ```D:\opticalmaterials_database\```
 
+### Install ChemDataExtractor and relavent files
 
-Install the dependency packages for the bespoke version for chemdataextractor for optical materials:
+Enter our destination folder by type the following command in the Anaconda Prompt:
 
+    cd D:\opticalmaterials_database\
     
+Now, the Anaconda Prompt should looks like this:
+
+    (chemdataextractor) D:\opticalmaterials_database>|
+    
+Install the dependency packages:
+    
+    pip install -r requirements.txt
+     
+Next, install the original version of ChemDataExtractor:
+
+    conda config --add channels conda-forge
+    conda install chemdataextractor
+    
+Before next step, copy and paste the **chemdataextractor folder** and the **tabledataextractor folder** to the site-package folder of your visual environment. That is:
+
+    Copy and paste D:\opticalmaterials_database>chemdataextractor(folder) and D:\opticalmaterials_database>tabledataextractor(folder) to
+    
+    Your_Anaconda_installation_directory\Anaconda\envs\chemdataextractor\Lib\site-packages\
+    
+This step is to use the bespoke version of ChemDataExtractor for this study to overwrite the original version of ChemDataExtractor. Note that the last step, installation of the original version of ChemDataExtractor, is still necessary because it is the pre-requisite of the next step. 
+
+In order to function, ChemDataExtractor requires a variety of data files, such as machine learning models, dictionaries, and word clusters. Get these by running:
+
+    cde data download
+    
+This will download all the necessary data files to the data directory. 
+
+Now, the software tools used for this study has been fully installed.
 
 
 ## Usage
+
+To extract raw data from text, you need to provide the root of the paper folder, output root to data record folder, start and end index of papers, and the file name to be saved within the ```main.py```.
+
+For example, extract the example papers within ```D:\opticalmaterials_database\demo\``` by typing the following command in the same Anacomda Prompt:
+
+    python main.py 
+    
+After the raw data is extracted, it needs to be cleaned and converted into a standard format. We provide the data cleaning code in dataclean.ipynb. The final data format can be .json, .csv or .db.
+
+
 Markdown 目录：
 [TOC]
 
