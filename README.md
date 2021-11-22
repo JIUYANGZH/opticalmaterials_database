@@ -7,8 +7,8 @@ Tools for auto-generating battery materials database.
 ### Pre-requisite
 This instruction of installation is based on a Windows computer.
 
-The quickest way to install the ChemDataExtractor version is via Anaconda. 
-Anaconda can be downloaded free of charge via the Anaconda official website [https://www.anaconda.com/products]. This installation process also requires the Microsoft Visual Studio C++ 2014 or later version installed. They can be downloaded freely via the Microsoft official website [https://visualstudio.microsoft.com/].
+The quickest way to install these tools is via Anaconda. 
+Anaconda can be downloaded free of charge from the Anaconda official website [https://www.anaconda.com/products]. This installation process also requires the Microsoft Visual Studio C++ 2014 or later version installed. They can be downloaded freely from the Microsoft official website [https://visualstudio.microsoft.com/].
 
 ### Create a new visual environment via Conda
 
@@ -69,55 +69,20 @@ For example, extract the example papers within ```D:\opticalmaterials_database\d
 
     python main.py 
     
-The Anaconda Prompt should then print the following:
+The Anaconda Prompt should then print as following:
 
     (chemdataextractor) D:\opticalmaterials_database>python main.py
+    parsing ./demo/1.html
+    {'RefractiveIndex': {'raw_value': '1.388', 'value': [1.388], 'specifier': 'n', 'compound': {'Compound': {'names': ['n-Heptane', 'n-heptane']}}}, 'metadata': "{'title': 'Influence of excited state aromaticity in the lowest excited singlet states of fulvene derivatives  ', 'authors': ['Martin\\xa0Rosenberg', 'Henrik\\xa0Ottosson', 'Kristine\\xa0Kilså', 'Martin\\xa0Rosenberg', 'Henrik\\xa0Ottosson', 'Kristine\\xa0Kilså'], 'publisher': 'Royal Society of Chemistry', 'journal': 'Physical Chemistry Chemical Physics', 'date': '2011/07/06', 'language': 'en', 'volume': '13', 'issue': '28', 'firstpage': '12912', 'lastpage': '12919', 'doi': '10.1039/C0CP02821E', 'pdf_url': 'https://pubs.rsc.org/en/content/articlepdf/2011/cp/c0cp02821e', 'html_url': 'https://pubs.rsc.org/en/content/articlelanding/2011/cp/c0cp02821e'}"}
+    ...
+    ...
+    parsing ./demo/4.html
+    {'RefractiveIndex': {'raw_value': '1.470', 'value': [1.47], 'specifier': 'refractive index', 'compound': {'Compound': {'names': ['trimethylolpropane triacrylate']}}, 'raw_sentence': 'Then , the templates were infiltrated with viscous mixtures of commercialized ethoxylated ( 15 ) trimethylolpropane triacrylate ( EO15TMPTA , refractive index 1.470 ) and polyethylene glycol ( 600 ) diacrylate ( PEG600DA , refractive index 1.468 ) ( Fig. S1 ) with various weight ratios from 1 : 2 to 1 : 6 .'}, 'metadata': "{'title': 'Reconfigurable photonic crystals with optical bistability enabled by “cold” programming and thermo-recoverable shape memory polymers  ', 'authors': ['Wenbin\\xa0Niu', 'Lingcheng\\xa0Qu', 'Rongwen\\xa0Lyv', 'Shufen\\xa0Zhang', 'Wenbin\\xa0Niu', 'Lingcheng\\xa0Qu', 'Rongwen\\xa0Lyv', 'Shufen\\xa0Zhang'], 'publisher': 'Royal Society of Chemistry', 'journal': 'RSC Advances', 'date': '2017/04/24', 'language': 'en', 'volume': '7', 'issue': '36', 'firstpage': '22461', 'lastpage': '22467', 'doi': '10.1039/C6RA28682H', 'pdf_url': 'https://pubs.rsc.org/en/content/articlepdf/2017/ra/c6ra28682h', 'html_url': 'https://pubs.rsc.org/en/content/articlelanding/2017/ra/c6ra28682h'}"}
+    {'RefractiveIndex': {'raw_value': '1.468', 'value': [1.468], 'specifier': 'refractive index', 'compound': {'Compound': {'names': ['diacrylate']}}, 'raw_sentence': 'Then , the templates were infiltrated with viscous mixtures of commercialized ethoxylated ( 15 ) trimethylolpropane triacrylate ( EO15TMPTA , refractive index 1.470 ) and polyethylene glycol ( 600 ) diacrylate ( PEG600DA , refractive index 1.468 ) ( Fig. S1 ) with various weight ratios from 1 : 2 to 1 : 6 .'}, 'metadata': "{'title': 'Reconfigurable photonic crystals with optical bistability enabled by “cold” programming and thermo-recoverable shape memory polymers  ', 'authors': ['Wenbin\\xa0Niu', 'Lingcheng\\xa0Qu', 'Rongwen\\xa0Lyv', 'Shufen\\xa0Zhang', 'Wenbin\\xa0Niu', 'Lingcheng\\xa0Qu', 'Rongwen\\xa0Lyv', 'Shufen\\xa0Zhang'], 'publisher': 'Royal Society of Chemistry', 'journal': 'RSC Advances', 'date': '2017/04/24', 'language': 'en', 'volume': '7', 'issue': '36', 'firstpage': '22461', 'lastpage': '22467', 'doi': '10.1039/C6RA28682H', 'pdf_url': 'https://pubs.rsc.org/en/content/articlepdf/2017/ra/c6ra28682h', 'html_url': 'https://pubs.rsc.org/en/content/articlelanding/2017/ra/c6ra28682h'}"}
+    68 relations in total
+    ./demo/4.html is done
     
+After the raw data is extracted, they are stored in a json file under ```./save```. The raw data also needs to be cleaned and converted into a standard format. We provide the data cleaning code in ```data_clean.ipynb```. The users are also freely to use any other way they want to filter, clean, and process the data.
 
-./demo/text1.html is done
-    
-After the raw data is extracted, it needs to be cleaned and converted into a standard format. We provide the data cleaning code in dataclean.ipynb. The final data format can be .json, .csv or .db.
+## Citation
 
-
-Markdown 目录：
-[TOC]
-
-Markdown 标题：
-# 这是 H1
-## 这是 H2
-### 这是 H3
-
-Markdown 列表：
-- 列表项目
-1. 列表项目
-
-*斜体*或_斜体_
-**粗体**
-***加粗斜体***
-~~删除线~~
-
-Markdown 插入链接：
-[链接文字](链接网址 "标题")
-
-Markdown 插入图片：
-![alt text](/path/to/img.jpg "Title")
-
-Markdown 插入代码块：
-    ```python
-    #!/usr/bin/python3
-    print("Hello, World!");
-    ```
-
-Markdown 引用：
-> 引用内容
-
-Markdown 分割线：
----
-
-Markdown 换行：
-<br>
-
-Markdown 段首缩进：
-&ensp; or &#8194; 表示一个半角的空格
-&emsp; or &#8195;  表示一个全角的空格
-&emsp;&emsp; 两个全角的空格（用的比较多）
