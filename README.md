@@ -85,4 +85,4 @@ The Anaconda Prompt should then print as following:
 After the raw data is extracted, they are stored in a json file under ```./save```. The raw data also needs to be cleaned and converted into a standard format. We provide the data cleaning code in ```data_clean.ipynb```. The users are also freely to use any other way they want to filter, clean, and process the data.
 
 ## Citation
-
+Please cite this work as: Zhao, J., Cole, J.M. A database of refractive indices and dielectric constants auto-generated using ChemDataExtractor. Sci Data 9, 192 (2022). https://doi.org/10.1038/s41597-022-01295-5
