@@ -502,12 +502,12 @@ class Snowball(BaseSentenceParser):
                 best_candidate_cluster = best_match_cluster
 
 
-        if best_candidate_phrase and best_candidate_phrase_score >= 0.88:
+        if best_candidate_phrase and best_candidate_phrase_score >= 0.85:
             for candidate_relation in best_candidate_phrase.relations:
                 candidate_relation.confidence = best_candidate_phrase_score
             if best_score_store >= 0.95:
                 best_candidate_cluster.add_phrase(best_candidate_phrase)
-            elif 0.88 < best_score_store < 0.95 and best_candidate_phrase_score > 0.88:
+            elif 0.85 < best_score_store < 0.95 and best_candidate_phrase_score > 0.85:
                 self.cluster_counter += 1
                 # create a new cluster
                 new_cluster = Cluster(str(self.cluster_counter), learning_rate=0.005)
